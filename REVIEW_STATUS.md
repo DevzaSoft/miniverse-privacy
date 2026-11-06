@@ -13,7 +13,7 @@ Branch: legal-site-review
 - Updated `styles.css` with responsive document cards and consistent DEVZASOFT branding.
 
 ## Owner-confirmed details
-- Individual developer's personal name intentionally omitted from public review files; legal disclosure obligations unresolved.
+- Data controller / individual developer: Barışcan DEDEOĞLU (owner-approved for publication in review drafts).
 - Brand: DEVZASOFT
 - Contact: devzasoft@gmail.com
 - App: MiniVerse Road Puzzle
@@ -23,7 +23,7 @@ Branch: legal-site-review
 These files are review candidates only. They are not legal advice, lawyer-approved documents, or publication approval.
 
 The following must be verified before final publication:
-1. Data controller postal/service address and legally sufficient contact procedure.
+1. Postal/service address is intentionally not published at the owner's request; verify whether the proposed contact and application procedure meets applicable requirements.
 2. Correct KVKK legal basis for each processing purpose and category.
 3. Actual recipients, processors, international transfer destinations and valid transfer mechanism(s).
 4. Retention and deletion periods for local game data, Google Mobile Ads/UMP data, logs and hosting.
