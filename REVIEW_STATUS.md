@@ -13,7 +13,7 @@ Branch: legal-site-review
 - Updated `styles.css` with responsive document cards and consistent DEVZASOFT branding.
 
 ## Owner-confirmed details
-- Data controller / individual developer: Barışcan DEDEOĞLU
+- Individual developer's personal name intentionally omitted from public review files; legal disclosure obligations unresolved.
 - Brand: DEVZASOFT
 - Contact: devzasoft@gmail.com
 - App: MiniVerse Road Puzzle
