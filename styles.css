@@ -1,1 +1,24 @@
 *{box-sizing:border-box}html{font-family:system-ui,-apple-system,"Segoe UI",sans-serif;line-height:1.65;color:#202b3b;background:#f5f7fb}body{margin:0}header,footer{background:#13243e;color:white;padding:16px max(18px,calc((100% - 840px)/2))}nav{display:flex;gap:18px;flex-wrap:wrap}header a,footer a{color:#d8f2ff}main{max-width:840px;margin:30px auto;padding:30px;background:white;border-radius:16px;box-shadow:0 8px 28px #172c4a14}h1{font-size:clamp(1.5rem,4vw,2.2rem);line-height:1.25}h2{margin-top:30px;font-size:1.2rem}a{color:#075ba8;overflow-wrap:anywhere}.draft{background:#fff4d4;color:#654a0b;border:1px solid #e7c66b;border-radius:8px;padding:12px;font-weight:700}.skip{position:absolute;left:-9999px}.skip:focus{left:10px;top:10px;background:white;padding:8px;z-index:10}@media(max-width:650px){main{margin:0;padding:20px;border-radius:0;box-shadow:none}header,footer{padding:16px}}
+/* Legal center review design */
+:root{--navy:#101d35;--blue:#1c4772;--cyan:#dff6ff;--ink:#1d2b40;--muted:#64748b;--line:#e4eaf1}
+header{background:linear-gradient(110deg,#0e1b32,#17385d);padding:19px max(20px,calc((100% - 980px)/2));box-shadow:0 8px 24px #0e1b3220}
+nav{align-items:center;justify-content:space-between}
+.brand{text-decoration:none;font-weight:800;letter-spacing:.04em;color:white!important}
+.brand span{font-weight:500;letter-spacing:0;color:#ccecff}
+main{max-width:980px}
+.landing{margin-top:42px}
+.eyebrow{font-size:.78rem;letter-spacing:.18em;font-weight:800;color:#2677ad}
+h1{font-size:clamp(2rem,5vw,3.35rem);letter-spacing:-.035em;color:var(--navy)}
+h1 span{color:#3876a6}
+.lead{font-size:1.12rem;color:#52647a;max-width:700px}
+section{margin-top:42px}
+.doc-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(230px,1fr));gap:14px}
+.doc{display:flex;flex-direction:column;gap:10px;padding:20px;border:1px solid var(--line);border-radius:14px;text-decoration:none;background:linear-gradient(145deg,#fff,#f8fbff);box-shadow:0 5px 18px #142b4710;transition:transform .18s,box-shadow .18s}
+.doc:hover{transform:translateY(-2px);box-shadow:0 12px 26px #142b4718}
+.doc strong{font-size:1.08rem;color:#153456}
+.doc span{font-size:.91rem;color:#64748b;line-height:1.5}
+.doc b{font-size:.86rem;color:#12639b;margin-top:4px}
+.meta,.small{font-size:.9rem;color:var(--muted)}
+.notice{padding:14px;border-left:4px solid #d49a24;background:#fff8e8;border-radius:7px}
+.draft{margin:18px 0;background:#fff5dc;border-color:#e8cb80;color:#684b10}
+@media(max-width:650px){.landing{margin-top:0}nav{gap:12px}.brand span{display:block}}
