@@ -334,3 +334,8 @@ The owner selected a retention period of **12 months after the relevant ordinary
 Separate KVKK/data-subject requests, ongoing disputes, statutory retention duties and records strictly necessary to establish, exercise or defend legal claims are not automatically deleted at the 12-month point. They must be assessed separately and retained only while the specific purpose and legal necessity continue. Google’s own system retention/deletion remains governed by Google's service terms and policies and is not controlled by the developer's mailbox schedule.
 
 The TR/EN Privacy Policy, KVKK Notice and Data Access/Deletion pages now state this distinction consistently. Before publication, confirm the operational mailbox workflow can actually implement the rule and ensure no blanket 12-month deletion is applied to records that must lawfully be retained longer or should be deleted earlier.
+
+
+## 29. Owner confirms first-launch legal links are shown — 8 November 2026
+
+The owner confirmed that the MiniVerse: Road Puzzle first-launch flow displays the Terms of Use and Privacy Policy to the user. This supersedes the earlier uncertainty about whether these documents are shown in-app. The confirmation does not yet establish whether the user must actively accept the Terms, whether the Privacy Policy is merely linked/displayed, whether the screen is shown to a parent/guardian, whether links open the current language version, or whether the choice is logged. Verify the exact first-launch UI and behavior before describing a mandatory acceptance step or consent record in public legal documents.
