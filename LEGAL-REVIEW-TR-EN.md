@@ -266,3 +266,12 @@ Google's AdMob signup guidance says the publisher selects their country/territor
 Google's AdMob Terms of Service page states that use of the Google Mobile Ads SDK is subject to the terms governing use of AdMob; the page was last updated 23 October 2026. Source: https://developers.google.com/admob/terms.
 
 **Owner confirmation received:** a DEVZASOFT AdMob account exists. **Still unknown:** selected account country, account approval/verification status, exact accepted terms and product-specific terms, app/package association, ad unit status, mediation and enabled features. Ask the owner to provide only the country/territory displayed in AdMob account settings; do not request postal address, tax ID, bank details, publisher ID, login, passwords or verification codes.
+
+
+## 23. AdMob publisher account country confirmed: Türkiye — 8 November 2026
+
+The owner confirmed that the DEVZASOFT AdMob publisher account country/territory is Türkiye. This is an account-country fact only. It does not establish that all Google processing or storage occurs in Türkiye, does not identify all recipient Google legal entities or destination countries, and does not by itself establish a KVKK Article 9 transfer mechanism. The country selection is relevant to the publisher account's contractual context and payments/tax configuration, but no tax or payment details are collected in this review.
+
+**Next AdMob evidence:** confirm the account's approval/verification status; whether MiniVerse: Road Puzzle is added and the exact Android package name; whether mediation/third-party ad networks are enabled; whether production ad units exist and are integrated; and which publisher/product terms are shown as accepted. The owner should provide only non-sensitive status and product labels, not publisher ID, address, tax ID, bank/payment details, passwords or verification codes.
+
+**Legal conclusion remains open:** assess each enabled Google product/feature's controller/processor role and each actual recipient/transfer route independently. A Türkiye publisher account does not prove Türkiye-only processing. Do not name a transfer country, Google legal entity, adequacy decision, standard contract or other Article 9 safeguard without account terms and technical/provider evidence.
