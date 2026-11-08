@@ -201,3 +201,10 @@ Owner reports Unity EventSystem pointer QA 53/53 PASS and zero Console errors. T
 FAIL: TR/EN Privacy Policy/KVKK still describes no age selection/verification and no DOB collection; now stale because onboarding asks for a self-declared age and stores age category. Update after verifying actual data fields and persistence. Acceptance record lacks verified document content hash and language evidence. Record exact Terms version, canonical URL/hash, displayed language, effective date and timestamp only after explicit user acceptance; do not treat Privacy Policy viewing as consent.
 
 BLOCKED: authoritative Terms version/canonical URL/hash and verified deployed Privacy URLs/content; physical Android touch; successful acceptance-to-main-menu E2E. Continue must remain disabled while authoritative Terms source is unavailable. Self-selected age list is not automatically confirmed as a Google Play neutral age screen; policy review remains necessary before advertising. Production ads disabled. No build, Resolve, publication or Stage 13. Full Stage 12.1 PASS is not approved.
+
+
+## Stage 12.1 latest report — legal text and acceptance evidence updated; approval withheld — 8 November 2026
+
+Owner reports TR/EN Privacy/KVKK/data access/deletion documents corrected and acceptance record linked to Terms version, URL, two hashes, language, effective date and explicit user action. Automated results: 335/335 offline, 24/24 persistence, 3/3 C# builds; 34/34 APKs preserved. No build/Resolve/publication; Stage 13 not started.
+
+Gaps: secure age correction UI missing despite being described in legal disclosures; implement or correct disclosures. Device time is not independent verification; record its source honestly. BLOCKED: approved Terms configuration absent, Continue disabled, current Unity QA, physical touch and acceptance-to-menu E2E pending, and age-list Google Play policy status unresolved. Production ads disabled. Full Stage 12.1 PASS not granted.
