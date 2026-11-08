@@ -137,3 +137,10 @@ Release blocker: do not use the Settings selector as the ad gate. Before any ad 
 ## Owner decision: no first-launch age screen; keep age selection in Settings — 8 November 2026
 
 The owner declined a first-launch age/date-of-birth screen and chose to retain the existing age selection only in Settings. Respect this choice. Do not call the Settings selector a neutral age screen or use it to route older-audience ads. Since the target includes children and older users, mixed-audience ad compliance remains unresolved. Keep Google Mobile Ads SDK initialization and all production ad requests disabled for every user unless qualified review confirms a compliant alternative under current Families rules. Do not change the declared target audience to exclude children without an explicit product decision. Settings age selection is a preference only, not verified age or parental consent.
+
+
+## Correction to ad strategy: all-users G/contextual ads do not replace mixed-audience age screening — 8 November 2026
+
+A prior proposal suggested child-appropriate, non-personalised G-rated ads to all users as a possible replacement for a neutral age screen. This is not a confirmed compliance path. Google's current Families policy expressly requires age-screening measures for apps targeting both children and older users, in addition to certified ad SDKs and child-appropriate ads. G max content rating and child-directed treatment are useful request controls but do not by themselves satisfy the age-screen requirement. Sources: https://support.google.com/googleplay/android-developer/answer/9893335?hl=en ; https://support.google.com/admob/answer/6223431?hl=en ; https://support.google.com/admob/answer/10477886?hl=en.
+
+Owner decision remains no first-launch age screen; age selection stays in Settings. Do not implement a first-launch age screen without approval. Keep all production ad requests disabled until a compliant alternative is confirmed or the owner changes the product/target-audience decision. Do not misdeclare the audience.
