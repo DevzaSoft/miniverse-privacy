@@ -144,3 +144,8 @@ Owner confirms MiniVerse age selection currently exists only in Settings. There 
 ## Product decision recorded — no first-launch age screen — 8 November 2026
 
 Owner explicitly chose to keep age selection only in Settings and declined adding a first-launch age/date-of-birth screen. This is a product preference, not evidence of mixed-audience ad-policy compliance. The Settings selector cannot be represented as a neutral age screen or used to serve older-audience ads. With a 6+ mixed audience, keep Mobile Ads SDK initialization and production ad requests disabled for all users unless a qualified, policy-compliant alternative is confirmed. Do not silently change the target audience declaration. Revisit only with the owner's approval.
+
+
+## Ad strategy policy correction — 8 November 2026
+
+Correction: serving G-rated, non-personalised/contextual ads to every user does not by itself remove Google Play's neutral age-screen requirement for mixed-audience apps. Official Families policy expressly requires age-screening measures where the declared audience includes both children and older users, plus certified ad SDKs and child-appropriate ads. Owner still declines first-launch age screen and wants age selection in Settings. Respect that choice; do not implement without approval, but keep production ads disabled until a compliant alternative is verified or product/target-audience decision is explicitly changed. Never misdeclare the audience. The prior suggestion that child-safe ads alone may solve the requirement is superseded. Sources: https://support.google.com/googleplay/android-developer/answer/9893335?hl=en ; https://support.google.com/admob/answer/6223431?hl=en ; https://support.google.com/admob/answer/10477886?hl=en.
