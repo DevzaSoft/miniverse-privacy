@@ -82,3 +82,22 @@ Sources:
 - AdMob Families implementation guidance: https://support.google.com/admob/answer/6223431
 - Target audience guidance: https://support.google.com/googleplay/android-developer/answer/9867159
 
+
+## Owner's equal-priority child / teen / adult decision (2026-11-08)
+
+The owner explicitly confirmed that young children (under 13), teens and adults are all target users with equal priority. This is stronger than a statement that children may happen to use an otherwise adult/general-audience game. The TR/EN Privacy Policy, Terms, KVKK notices and data-access/deletion pages on this branch have been updated accordingly. Do not reuse the older 18+ or 13+ audience statements.
+
+This still does not automatically resolve the legal classification under COPPA. FTC's “mixed audience” category is a subset of child-directed services in which under-13 children are not the primary audience. The owner's equal-priority decision may support that analysis, but the game's toy-city/cartoon visual design, game subject, incentives, store listing, marketing and actual/likely audience must be assessed as a whole. Until qualified US counsel resolves the classification, take the conservative path and do not enable production ad SDK data collection. If under-13 children are the primary audience, do not use age screening to treat other visitors as adults; apply child protections to all visitors as required. If it qualifies as mixed audience, age screening may be used only within the FTC/Google requirements, and under-13 users must not have personal data collected before required COPPA notice/verified parental consent or a valid exception.
+
+For Play Console, evaluate age bands individually. Owner has confirmed children under 13, teens and adults, but has not said whether toddlers/preschoolers aged 5 and under are included. Do not select “5 and under” until suitability is confirmed. Evaluate 6–8, 9–12, 13–15, 16–17 and 18+ separately against game mechanics, reading demands, visuals, audio, marketing and store listing. Exact declaration remains unresolved.
+
+For every child or unknown-age ad request, AdMob guidance requires child-directed age treatment and maximum ad content rating G; use only current Families Self-Certified Ads SDK versions and compliant mediation adapters. No interest-based ads or remarketing for children/unknown-age users. Production ads remain disabled until age routing, any legally permitted neutral age screen, parental notice/consent or applicable exception, and all SDK paths are verified.
+
+Sources:
+- Google Play target audience: https://support.google.com/googleplay/android-developer/answer/9867159
+- Google Play Families: https://support.google.com/googleplay/android-developer/answer/9893335
+- FTC COPPA FAQ: https://www.ftc.gov/business-guidance/resources/complying-coppa-frequently-asked-questions
+- FTC COPPA Rule: https://www.ecfr.gov/current/title-16/chapter-I/subchapter-C/part-312
+- AdMob Families implementation: https://support.google.com/admob/answer/6223431
+- KVKK digital games symposium: https://www.kvkk.gov.tr/Icerik/8289/Dijital-Oyunlar-ve-Kisisel-Verilerin-Korunmasi-Sempozyumu
+
