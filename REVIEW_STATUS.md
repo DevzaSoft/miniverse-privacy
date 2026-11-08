@@ -192,3 +192,12 @@ Owner reports the single authorised build succeeded and signature matched the pr
 Owner reports single onboarding panel with language, unselected age list, legal links and separate Terms checkbox; DOB fields removed. Unity QA 51/51 PASS, Console 0 errors, offline 294/294 PASS, persistence 16/16 PASS, C# builds 4/4 PASS. 34/34 protected APKs unchanged. No APK/Resolve; production ads disabled.
 
 BLOCKED: approved Terms version, canonical URL and content hash are missing; Continue remains disabled. Real pointer/touch and post-acceptance end-to-end tests not complete. Next verify authoritative Terms and Privacy URLs/version/hash, run touch and full acceptance flow tests, confirm explicit acceptance record and returning-user navigation. Do not infer/fabricate legal URLs or hashes. Age picker requires separate Google Play Families policy review. No build, ads, publish or Stage 13 until evidence is complete and owner approves.
+
+
+## Stage 12.1 latest validation — pointer simulation passed; full approval withheld — 8 November 2026
+
+Owner reports Unity EventSystem pointer QA 53/53 PASS and zero Console errors. Turkish/English language selection, age selection, document open/return and disabled Terms/Continue checks passed in simulation. Not physical touchscreen evidence. 34 APKs preserved; no build/Resolve; Stage 13 not started.
+
+FAIL: TR/EN Privacy Policy/KVKK still describes no age selection/verification and no DOB collection; now stale because onboarding asks for a self-declared age and stores age category. Update after verifying actual data fields and persistence. Acceptance record lacks verified document content hash and language evidence. Record exact Terms version, canonical URL/hash, displayed language, effective date and timestamp only after explicit user acceptance; do not treat Privacy Policy viewing as consent.
+
+BLOCKED: authoritative Terms version/canonical URL/hash and verified deployed Privacy URLs/content; physical Android touch; successful acceptance-to-main-menu E2E. Continue must remain disabled while authoritative Terms source is unavailable. Self-selected age list is not automatically confirmed as a Google Play neutral age screen; policy review remains necessary before advertising. Production ads disabled. No build, Resolve, publication or Stage 13. Full Stage 12.1 PASS is not approved.
