@@ -44,3 +44,10 @@ Owner decision updated on 8 November 2026: the app is intended for a general fam
 
 ## Next step
 Owner review of the candidate texts, then qualified legal review and completion of the unresolved factual items. Only after explicit owner approval should changes be merged to `main` and GitHub Pages deployment verified.
+
+## Owner audience decision update — 8 November 2026
+
+The owner confirmed that young children (under 13), teens and adults are all intentionally targeted with equal priority. This supersedes “general family audience” as the operative detailed audience decision and supersedes all earlier 18+ / 13+ draft wording. Public-facing review candidates on this branch have been updated to reflect this decision. Exact Play Console age bands remain open because “young children” does not yet establish whether age 5 and under (toddlers/preschoolers) are included.
+
+COPPA classification is not automatically settled by the phrase “equal priority.” FTC distinguishes child-directed services, mixed-audience child-directed services (where under-13s are not the primary audience), and general-audience services. Review product visuals, toy-city/cartoon presentation, activities, incentives, audio, store listing, marketing and actual/likely audience. Obtain qualified US legal review before enabling data collection/ads to under-13 users. Production ad serving remains disabled.
+
