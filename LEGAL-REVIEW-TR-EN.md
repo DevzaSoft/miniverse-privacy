@@ -385,3 +385,12 @@ Google Play's current mixed-audience guidance says that where target age groups 
 **Interim ad behavior:** until neutral age screening and jurisdictional mapping are implemented and tested, do not request or show production ads to any user. UMP consent does not replace age screening. Settings age preference may remain as a preference but must not override the initial neutral age-screen result or downgrade child-safe treatment. If age status is missing, invalid, skipped, or unavailable, take the child-safe/no-personalised-ad path; if the product cannot safely implement that path, do not initialize/request ads.
 
 Required tests: fresh install before any network/SDK initialization; child band; teen band; adult band; unknown/invalid input; app update and persisted state; Settings changes; TR/EN; offline; reset/reinstall; and verify no ad request occurs before age resolution. Confirm the current Settings age selector's exact labels, persistence and any data sent to Google only after source-code/build inspection.
+
+
+## 34. Owner decision: retain age selection in Settings; no first-launch age screen — 8 November 2026
+
+The owner explicitly declined adding a first-launch age/date-of-birth screen and instructed that the existing age selection remain only in Settings. Respect this product decision; do not implement or describe a new first-launch age gate as approved.
+
+**Compliance consequence:** the Settings-only selector must not be represented as a neutral age screen or used to unlock older-audience ad treatment. Because the declared audience includes children and older users, the app's mixed-audience ad-routing compliance remains unresolved without a neutral age-screen mechanism. Do not request or serve production ads to any audience while this design remains unchanged. Keep Google Mobile Ads initialization and ad requests disabled for all users in the release build unless qualified review confirms a compliant alternative under current Google Play/Families rules. Do not silently switch the app's declared audience away from children; that would contradict the owner's 6+ target and the product's actual audience.
+
+The existing Settings age selection may remain as a user preference only, but it must not be treated as verified age, parental consent, or permission to show personalised/older-audience ads. Unknown/invalid/missing age must not cause more permissive ad treatment. Revisit only if the owner later changes the product decision or obtains qualified policy/legal approval for an alternative.
