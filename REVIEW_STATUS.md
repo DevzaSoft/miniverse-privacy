@@ -51,3 +51,8 @@ The owner confirmed that young children (under 13), teens and adults are all int
 
 COPPA classification is not automatically settled by the phrase “equal priority.” FTC distinguishes child-directed services, mixed-audience child-directed services (where under-13s are not the primary audience), and general-audience services. Review product visuals, toy-city/cartoon presentation, activities, incentives, audio, store listing, marketing and actual/likely audience. Obtain qualified US legal review before enabling data collection/ads to under-13 users. Production ad serving remains disabled.
 
+
+
+## Final owner age-band decision — 8 November 2026
+
+The owner has explicitly excluded children aged 5 and under from the intended audience. The target groups are 6–8, 9–12, 13–15, 16–17 and 18 and over, with children aged 6–12, teens and adults intended with equal priority. This resolves the earlier open question about toddlers/preschoolers. The app remains child-inclusive because ages 6–12 are intentionally targeted; Families and child-privacy requirements therefore remain applicable. This decision does not authorize production ads, merge to main, or final publication.
