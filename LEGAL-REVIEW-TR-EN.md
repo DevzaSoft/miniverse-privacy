@@ -110,3 +110,33 @@ A release candidate may be approved only after:
 ## 9. Review limitations
 
 This is a product/policy consistency and public-source review, not a legal opinion or attorney-client advice. The review did not inspect the final Release AAB, live provider contracts, Play Console declarations, deployed website, actual network payloads, or the developer's complete data-processing records. Findings about those items are intentionally marked as requiring verification rather than assumed facts.
+
+## 10. Owner decision: general family audience (8 November 2026)
+
+The product owner has confirmed that MiniVerse: Road Puzzle is intended for a **general family audience**, including children, teens and adults. The previous “18+ primary audience” wording was inconsistent with this decision and has been removed from the TR/EN Privacy Policy and Terms, and the family-audience context has been added to the KVKK and data-access/deletion documents.
+
+Official Google Play guidance:
+- Target audience and content: https://support.google.com/googleplay/android-developer/answer/9867159
+- Families Policy: https://support.google.com/googleplay/android-developer/answer/9893335
+- Families Self-Certified Ads SDK Program: https://support.google.com/googleplay/android-developer/answer/9900633
+
+**Policy consequences for this app:**
+1. In Play Console, declare only the age bands for which the game is genuinely designed and appropriate. “General family audience” does not justify selecting every age band automatically; the owner must confirm suitability of the youngest groups against gameplay, art, store listing, marketing and monetisation.
+2. Because the app is a mixed audience, Google Play Families requirements apply if any selected target group includes children. Ads shown to children and users of unknown age must use eligible Families Self-Certified Ads SDK versions and must not use interest-based/personalised advertising or remarketing.
+3. A neutral age screen is required for mixed-audience ad delivery so children receive the child-appropriate ad treatment. UMP privacy messaging is not a neutral age screen and must not be described as one.
+4. The reviewed legal text says the app does not ask for age or collect date of birth. No neutral age-screen implementation has been established by the reviewed materials. Therefore, ad serving to children or users of unknown age is a **release blocker** until a compliant age-screen/ad-routing implementation is verified.
+5. The reviewed configuration says Production ad serving is disabled and demo ad units are for development/testing. Keep live ad serving disabled until the exact Google Mobile Ads SDK/plugin version and every mediation adapter are checked against the current Families Self-Certified Ads SDK list and the release build's child-directed/non-personalised request behavior is tested.
+6. A child-accessible app must be assessed under applicable child privacy and advertising law in every distribution market. Do not claim parental consent or age assurance merely because UMP is present.
+
+**Remaining owner/product decision:** the broad family-audience decision is recorded, but the exact Google Play age bands remain unconfirmed. Select them only after reviewing the game and store presentation for age appropriateness. If the youngest child groups are not actually intended, do not select them just to increase reach.
+
+## 11. Updated publication gate
+
+The release remains **BLOCKED — do not publish/enable production ads yet**. In addition to Section 8, require:
+- [ ] Exact target age bands in Play Console are selected and match the product, store listing and marketing.
+- [ ] Neutral age-screen behavior is implemented and verified for a mixed audience before child/unknown-age ad requests.
+- [ ] Every advertising SDK and mediation adapter version is verified against Google's current Families Self-Certified Ads SDK list.
+- [ ] Child-directed treatment and non-personalised ad behavior are verified for child/unknown-age users; no interest-based ads or remarketing are served to them.
+- [ ] Test evidence covers child, adult and unknown-age paths, UMP unavailable/error paths, offline behavior and rewarded-ad completion.
+- [ ] The Data safety form and privacy notices match the tested Release AAB and actual enabled services.
+
