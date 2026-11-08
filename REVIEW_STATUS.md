@@ -139,3 +139,8 @@ Age-screen presence and ad routing in the current Unity build have not yet been 
 ## Age-selection flow confirmed — Settings only — 8 November 2026
 
 Owner confirms MiniVerse age selection currently exists only in Settings. There is no first-launch age/date-of-birth screen before ads. This is not a verified neutral age screen for Google Play mixed-audience ad routing. Release blocker: do not enable production ads or rely on the Settings value to serve older-audience ads. Implement and test a neutral first-launch age screen before any ad SDK initialization/request, or keep ads disabled for all users. UMP is not age screening. Unknown/invalid/skipped age must remain on child-safe/no-personalised-ad path; if safe handling is not implemented, do not initialize/request ads. Google guidance: https://support.google.com/googleplay/android-developer/answer/9867159?hl=en.
+
+
+## Product decision recorded — no first-launch age screen — 8 November 2026
+
+Owner explicitly chose to keep age selection only in Settings and declined adding a first-launch age/date-of-birth screen. This is a product preference, not evidence of mixed-audience ad-policy compliance. The Settings selector cannot be represented as a neutral age screen or used to serve older-audience ads. With a 6+ mixed audience, keep Mobile Ads SDK initialization and production ad requests disabled for all users unless a qualified, policy-compliant alternative is confirmed. Do not silently change the target audience declaration. Revisit only with the owner's approval.
