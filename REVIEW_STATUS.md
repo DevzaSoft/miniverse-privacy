@@ -33,7 +33,7 @@ The following must be verified before final publication:
 8. Final legal review by a qualified Turkish privacy/consumer-law professional.
 9. Effective dates and version numbers after all above are settled.
 
-The owner has stated that the app is not designed specifically for or directed at children and is intended for a general audience. This does not itself establish that children cannot use it or resolve legal treatment in every target country. Store audience declarations, app design and ad SDK age treatment must be consistent.
+Owner decision updated on 8 November 2026: the app is intended for a general family audience including children, teens and adults. This supersedes the earlier general-audience / not-child-directed wording and the 13+ wording in older 21D candidates. Exact Play Console age bands still require a product suitability decision. The classification under each country's child-directed / mixed-audience laws must be assessed from actual product presentation, marketing, audience and data flows; it is not resolved merely by this owner statement.
 
 ## Deployment status
 - Changes were committed only to `legal-site-review`.
