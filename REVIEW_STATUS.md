@@ -56,3 +56,12 @@ COPPA classification is not automatically settled by the phrase “equal priorit
 ## Final owner age-band decision — 8 November 2026
 
 The owner has explicitly excluded children aged 5 and under from the intended audience. The target groups are 6–8, 9–12, 13–15, 16–17 and 18 and over, with children aged 6–12, teens and adults intended with equal priority. This resolves the earlier open question about toddlers/preschoolers. The app remains child-inclusive because ages 6–12 are intentionally targeted; Families and child-privacy requirements therefore remain applicable. This decision does not authorize production ads, merge to main, or final publication.
+
+
+## KVKK Article 10 / Article 5 / Article 9 follow-up — 8 November 2026
+
+- Added a visible draft / not approved for publication banner to `kvkk-tr.html` and `kvkk-en.html`.
+- Clarified the observed collection channels in both notices: local in-app records, automatic third-party SDK collection/transmission, user-initiated support email, and possible automatic hosting/network logs on policy-page visits. Final fields and providers still require technical/contract verification.
+- Added a purpose-by-purpose Article 5 decision register and Article 9 transfer evidence checklist to `LEGAL-REVIEW-TR-EN.md`. These are explicitly work registers, not legal conclusions. No legal ground, recipient country, standard contract or transfer safeguard has been invented or declared complete.
+- Official KVKK guidance confirms that Article 10 notices must identify the controller/representative, purposes, recipient groups and transfer purposes, collection method, legal ground, and data-subject rights; the legal ground must identify the applicable Article 5/6 condition. Sources are linked in the legal review document.
+- Current state remains BLOCKED for final publication, merge to `main`, production ads and Play submission approval pending actual provider/contract/configuration evidence and qualified Turkish counsel review.
