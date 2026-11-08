@@ -112,3 +112,8 @@ Do not ask the owner to publish early just to clear AdMob's app-review status. D
 - Identified direct consumer Gmail provider in TR/EN Privacy Policy and Data Access/Deletion pages; distinguished Gmail from AdMob/UMP feature-specific roles and avoided describing consumer Gmail as the developer's processor.
 - Kept legacy data-deletion-tr.html unlinked and noindex; canonical public index links paired TR/EN data-access-deletion pages.
 - Retention schedule, actual first-launch UX, Article 5/9 legal grounds/transfers and qualified legal review remain unresolved. Production ads and publication remain blocked.
+
+
+## Owner retention decision — 8 November 2026
+
+Ordinary support emails are to be retained for 12 months after the relevant support request is resolved, then developer-controlled copies must be deleted or genuinely anonymised. This period does not automatically apply to separate KVKK/data-subject requests, ongoing disputes, statutory retention duties or records strictly necessary for legal claims; these are assessed separately and retained only while necessary. The TR/EN Privacy Policy, KVKK Notice and Data Access/Deletion pages were updated consistently. Operational implementation in Gmail (resolution date marking and periodic deletion review) remains to be confirmed; Gmail does not automatically implement this custom retention rule.
