@@ -187,3 +187,8 @@ The owner's “young children” decision does not identify whether toddlers/pre
 
 ### Release status
 **BLOCKED — no production advertising and no final publication/Play submission approval.** Required evidence: exact Play age-band decision; US COPPA child-directed/mixed-audience legal classification; EU member-state digital-consent matrix; Turkish child-data/KVKK assessment; neutral age-screen design where legally permitted; no-data-before-screen verification; parental notice/consent or documented exception where required; child/unknown/adult ad-routing tests; current SDK/adapter certification; final Release AAB/Data Safety alignment.
+
+
+## 16. Final owner decision: exclude ages 5 and under (8 November 2026)
+
+The owner has confirmed that children aged 5 and under are not part of the intended audience. The target groups are 6–8, 9–12, 13–15, 16–17 and 18 and over, with children aged 6–12, teens and adults intended with equal priority. This resolves the prior open question about toddlers/preschoolers. Do not select the Play Console “5 and under” band. The app still intentionally targets children aged 6–12, so Google Play Families and applicable child-privacy requirements remain relevant. This decision does not establish that any particular age-suitability, COPPA classification, age-screening, SDK, advertising, KVKK or international-transfer requirement has been satisfied. Production ads and final publication remain blocked pending the evidence and legal review described above.
