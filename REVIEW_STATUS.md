@@ -122,3 +122,8 @@ Ordinary support emails are to be retained for 12 months after the relevant supp
 ## First-launch legal acceptance gate issue — 8 November 2026
 
 Owner confirmed the first-launch screen displays Terms of Use and Privacy Policy and is intended to require an “I agree” action before proceeding. However, the “I agree” button is currently passive/disabled and cannot be clicked. Therefore the acceptance gate is currently non-functional; do not claim that acceptance is captured or that users have accepted the Terms. This is a release blocker requiring a Unity UI fix and verification across clean install, update, returning install, offline state, screen sizes and TR/EN. Keep Terms acceptance separate from UMP advertising/privacy consent and do not claim that Privacy Policy display itself is consent.
+
+
+## Owner advertising-network choice — 8 November 2026
+
+The owner chose Google AdMob only; no third-party ad networks or mediation partners are planned. Record this as the intended plan only. Actual Unity dependencies, Gradle tree, Android merged manifest, Plugins/Android libraries, AdMob mediation groups/ad sources/custom events and final Release AAB must still be checked to prove no other network SDK/adapter is included or enabled. If any is present, update data-flow/recipient disclosures, Families SDK eligibility, contracts/transfers and Data Safety. AdMob-only does not remove child-directed/unknown-age safeguards, UMP requirements, or KVKK Article 9 review. Production ads remain disabled until all gates pass.
