@@ -186,3 +186,12 @@ Clean-install and Android runtime validation remain BLOCKED. Do not uninstall/cl
 Owner reports one unified first-launch panel containing language, unselected age list, document links and separate Terms checkbox; DOB input removed. Unity QA 51/51, zero Console errors, offline 294/294, persistence 16/16 and C# compilation 4/4 passed. 34 protected APKs unchanged. No APK/Resolve; ads remain disabled.
 
 Continue remains disabled because approved Terms version/canonical URL/content hash are missing. Real pointer/touch and post-acceptance end-to-end tests remain incomplete. Next verify approved Terms source/version/hash and Privacy Policy URLs/language routing; then test physical pointer/touch, gating logic, acceptance recording and main-menu transition. Do not fabricate URLs/hashes or claim acceptance before action. Privacy Policy is notice, not blanket consent. Age list is not automatically proof of neutral-age-screen compliance. No build, ads, publication or Stage 13 pending approval.
+
+
+## Stage 12.1 pointer QA — 53/53 simulated PASS; privacy and acceptance FAIL; legal/touch BLOCKED — 8 November 2026
+
+Owner reports Unity EventSystem pointer QA 53/53 PASS, zero Console errors. TR/EN selection, age selection, document open/return and disabled Terms/Continue checks passed. Simulated pointer QA is not physical touch evidence. 34 APKs unchanged; no build/Resolve; Stage 13 not started.
+
+FAIL: TR/EN Privacy Policy and KVKK text still says no age is asked/verified and no DOB is collected, but current onboarding asks users to select an age and stores age classification. Inspect actual implementation and update disclosures to describe age selection, exact stored value/category, purpose, local retention and correction accurately. Acceptance record lacks verified Terms content hash and language evidence. Bind explicit acceptance to exact Terms version, canonical URL/hash, language, effective date and timestamp; never record Privacy Policy viewing as consent.
+
+BLOCKED: authoritative approved Terms version/URL/hash and verified deployed Privacy URLs/content are missing. Physical Android touch and acceptance-to-main-menu end-to-end flow not run. Keep Continue disabled until legal source is verified. Do not fabricate URL/hash. A self-selected age list is not automatically confirmed as Google's neutral age screen; review current Families policy before ads. Production ads remain disabled. No build, Resolve, publication or Stage 13.
