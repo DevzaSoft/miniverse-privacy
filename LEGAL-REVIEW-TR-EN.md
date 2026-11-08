@@ -286,3 +286,14 @@ The owner confirmed that the DEVZASOFT AdMob publisher account country/territory
 - Google's AdMob restricted data processing (RDP) is a limited setting for certain applicable privacy-law contexts and does not turn off mediation or automatically cover data sent to mediation partners. It must not be presented as a universal KVKK solution or a substitute for Article 9 transfer compliance. Source: https://support.google.com/admob/answer/14125907?hl=en.
 
 **Next evidence still needed:** account approval/verification status; MiniVerse app/package association; enabled products/features; mediation partners; accepted publisher terms; actual transfer recipients/countries and transfer mechanism. Account country Türkiye is recorded, but final legal conclusions remain blocked.
+
+
+## 25. Owner confirms AdMob account approved — distinguish account from app readiness — 8 November 2026
+
+The owner confirmed that the DEVZASOFT AdMob account is approved and described it as ready to serve ads. Record this as the owner's report about the **account**. Do not infer that MiniVerse: Road Puzzle itself has completed its separate app-readiness review, app-ads.txt verification (if required), policy checks, or that live ad units are integrated/serving.
+
+Google's current AdMob Help says each new app must be linked to a supported app store and pass its own app-readiness review before it can fully serve ads. The app-level status is visible in AdMob > Apps > View all apps; “Ready” means the app is ready to serve ads, while “Getting ready”, “Requires review”, or “Needs attention” are not equivalent. Source: https://support.google.com/admob/answer/10564477?hl=en.
+
+Google also says newly created apps may require app-ads.txt verification before approval/readiness, starting January 2025 for new apps where prompted. Source: https://support.google.com/admob/answer/14538460?hl=en.
+
+**Next owner evidence:** inspect only the MiniVerse: Road Puzzle row in AdMob > Apps > View all apps and report its exact status label (Ready / Getting ready / Requires review / Needs attention / Request review). Do not share publisher ID, ad unit IDs, package private keys, payment details, address, tax data, password or verification codes. Also note whether the app's app-ads.txt section says verified, if present. Until this app-level status is confirmed, production ads remain disabled in the project and no claim is made that this specific app is cleared to serve live ads.
