@@ -103,3 +103,12 @@ The owner clarified that MiniVerse: Road Puzzle has not yet been published becau
 **Correct sequence:** (1) finish legal notices and verify actual technical/data flows; (2) complete the game release candidate, store listing, privacy-policy URL, Data safety declaration, target audience and Families compliance; (3) prepare app-ads.txt using the exact seller record from AdMob and publish it on the developer website if required; (4) owner approves the final release and publishes the app publicly to Google Play; (5) only after the public listing is available, link the exact Play listing/package in AdMob; (6) complete app-ads.txt verification and AdMob app-readiness review; (7) enable production ads only after app status is “Ready” and child-audience, consent, SDK, transfer and legal checks have passed.
 
 Do not ask the owner to publish early just to clear AdMob's app-review status. Do not treat the current pre-publication AdMob state as a failure. The publisher account itself is owner-confirmed approved; the app-level review necessarily waits until the public store listing exists. Production ads remain disabled until all gates are complete.
+
+
+## Public-document consistency pass — 8 November 2026
+
+- Removed unsupported claim of a mandatory in-app Terms acceptance screen from TR/EN Terms; now describe terms without asserting an unverified UI.
+- Added parent/guardian review wording for minors while preserving mandatory rights.
+- Identified direct consumer Gmail provider in TR/EN Privacy Policy and Data Access/Deletion pages; distinguished Gmail from AdMob/UMP feature-specific roles and avoided describing consumer Gmail as the developer's processor.
+- Kept legacy data-deletion-tr.html unlinked and noindex; canonical public index links paired TR/EN data-access-deletion pages.
+- Retention schedule, actual first-launch UX, Article 5/9 legal grounds/transfers and qualified legal review remain unresolved. Production ads and publication remain blocked.
