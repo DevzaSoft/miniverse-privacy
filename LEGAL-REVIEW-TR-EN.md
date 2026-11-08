@@ -325,3 +325,12 @@ Retention remains a substantive open item: local game records have no timed auto
 Google Play Families policy confirms that if children are among the target audiences, child-accessible content and all monetization must meet Families rules; mixed audiences need a neutral age screen before serving ads to children/unknown-age users, and child/unknown-age ad requests must use Families self-certified ad SDKs. UMP is not an age screen. Official source: https://support.google.com/googleplay/android-developer/answer/9893335?hl=en.
 
 Publication remains blocked pending actual app UX verification, a practical retention/deletion schedule, complete data-flow and provider contract review, Article 5/9 legal conclusions, qualified counsel review, final owner approval and public-release QA.
+
+
+## 28. Ordinary support email retention period confirmed by owner — 8 November 2026
+
+The owner selected a retention period of **12 months after the relevant ordinary support request has been resolved**. This rule applies only to ordinary support correspondence in the developer-controlled consumer Gmail account. At the end of 12 months, developer-controlled copies must be deleted or genuinely anonymised. Implement an operational process to mark the resolution date and periodically identify/delete eligible messages; do not assume Gmail automatically enforces this rule.
+
+Separate KVKK/data-subject requests, ongoing disputes, statutory retention duties and records strictly necessary to establish, exercise or defend legal claims are not automatically deleted at the 12-month point. They must be assessed separately and retained only while the specific purpose and legal necessity continue. Google’s own system retention/deletion remains governed by Google's service terms and policies and is not controlled by the developer's mailbox schedule.
+
+The TR/EN Privacy Policy, KVKK Notice and Data Access/Deletion pages now state this distinction consistently. Before publication, confirm the operational mailbox workflow can actually implement the rule and ensure no blanket 12-month deletion is applied to records that must lawfully be retained longer or should be deleted earlier.
