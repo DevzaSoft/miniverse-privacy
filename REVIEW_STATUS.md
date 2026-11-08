@@ -75,3 +75,10 @@ The owner confirmed direct consumer Gmail use of `devzasoft@gmail.com` for suppo
 ## Support mailbox security confirmation — 8 November 2026
 
 The owner confirmed two-step verification is enabled on `devzasoft@gmail.com`. The KVKK TR/EN drafts now state this specific control, without claiming that all account-security settings or the complete security programme have been audited. Remaining mailbox review: recovery methods, active sessions, connected apps, forwarding/filter rules and access permissions.
+
+
+## AdMob country and official-source check — 8 November 2026
+
+The owner confirmed the AdMob publisher account country is Türkiye. Official Google signup guidance says this selection cannot later be changed, but it does not imply data is stored/processed only in Türkiye. Google's publisher-suite roles are feature-specific: Google and publisher are independent controllers for the publisher products generally, while Google acts as processor for some specific features. Google's privacy documentation states that data may be processed on servers outside the user's country. KVKK Article 9 transfer rules (effective 1 June 2024) require an applicable legal transfer route; standard contracts require Authority notification within five business days of signature. No contract, destination country or transfer safeguard is assumed to exist. Official references: https://support.google.com/admob/answer/7356219?hl=en ; https://support.google.com/admob/answer/7666366?hl=en ; https://policies.google.com/privacy/frameworks?hl=en ; https://www.kvkk.gov.tr/Icerik/6649/Personal-Data-Protection-Law ; https://www.kvkk.gov.tr/Icerik/2053/Yurtdisina-Aktarim.
+
+AdMob restricted data processing is not a universal KVKK solution and does not disable mediation or automatically cover data sent to mediation partners: https://support.google.com/admob/answer/14125907?hl=en. Next evidence: account approval/verification status, app/package association, enabled products/features, mediation partners and accepted publisher terms. Publication remains blocked.
