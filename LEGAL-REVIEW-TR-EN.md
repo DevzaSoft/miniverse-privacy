@@ -486,3 +486,14 @@ Owner reports Unity EventSystem pointer QA 53/53 PASS and zero Console errors. T
 **Additional policy review:** the age picker asks for a self-declared age rather than DOB. Do not assume this is accepted as Google's neutral age screen for a mixed audience. Obtain a policy-specific review against current Google Play Families wording before enabling ads. The age choice is not verified identity, parental consent or advertising consent. Keep production ads disabled.
 
 Stage 12.1 is NOT approved for full PASS. No APK build, Resolve, publication, production ads or Stage 13 until legal source, disclosure accuracy, acceptance evidence, physical touch and end-to-end flow are verified and owner approves.
+
+
+## 43. Stage 12.1 legal consistency/evidence fix — reported PASS with remaining blockers — 8 November 2026
+
+Owner reports TR/EN Privacy Policy, KVKK and data access/deletion documents were locally corrected to reflect the age-selection flow. Acceptance evidence now binds Terms version, URL, two hashes, acceptance language, effective date and explicit user action. Reported tests: 335/335 offline, 24/24 persistence, 3/3 C# compilation; 34 APKs preserved. No build, Resolve or publication; Stage 13 not started. Owner supplied local report `Artifacts/MiniVerseV1/Stage12_1/LegalConsistencyEvidenceFix/SUMMARY.md` and `PHYSICAL_TOUCH_TEST_PLAN.md`; not independently inspected in this repository review.
+
+**Remaining FAIL/gaps:** no secure age-correction UI exists, although correction is described in the legal documents. This is a factual/operational mismatch: implement a safe correction flow or revise the disclosures so they do not promise an unavailable mechanism. Device clock is not an independently trusted timestamp source; retain the time-source provenance and do not describe device time as independently verified. Define behavior for clock manipulation/offline acceptance and use a trustworthy server timestamp only if a suitable backend exists and is justified; otherwise clearly mark timestamp as device-reported and avoid overstating its evidentiary strength.
+
+**BLOCKED:** approved Terms configuration is missing; Continue remains disabled. Current Unity QA, physical Android touch and successful acceptance-to-main-menu end-to-end test remain pending. Google Play policy suitability of the self-selected age list remains unresolved; do not claim that it is accepted as a neutral age screen without checking current official Families guidance and the precise design. Production ads remain disabled.
+
+Next: identify authoritative approved Terms text/version/URL/hash and configure it; implement and test age correction or correct disclosures; validate timestamp provenance; rerun current Unity QA; conduct physical Android touch and acceptance-to-main-menu tests on a safe test install; obtain policy review of age picker. Preserve all 34 APKs and existing user data. No build/Resolve/publish/Stage 13 until separately approved.
