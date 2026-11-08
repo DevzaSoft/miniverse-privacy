@@ -39,7 +39,7 @@ Do not claim "no data collected" merely because no DEVZASOFT server is used. Do 
 - Verify ads are requested only when allowed by current consent status and configured regional rules.
 - Configure Google-certified CMP/TCF and relevant privacy messages for EEA, UK, and applicable other regions.
 - Test EEA, UK, Switzerland and applicable US-state privacy paths using official debug/test mechanisms; avoid assuming one consent message covers every jurisdiction.
-- Verify Google Play target audience, actual game presentation, and child-directed / mixed audience ad configuration; do not assume "general audience" removes child-related obligations.
+- Owner decision (2026-11-08): general family audience including children, teens and adults. Verify the exact Play Console age bands against the game presentation; do not assume "family audience" alone resolves child-directed / mixed-audience classification or removes child-related obligations.
 - Verify rewarded ads are optional, properly rewarded only on confirmed completion, and production ad units remain disabled until live verification.
 - Check Play Console Data safety, Ads declaration, privacy policy URL, app content, content rating and target audience against release AAB.
 
@@ -55,3 +55,18 @@ Do not claim "no data collected" merely because no DEVZASOFT server is used. Do 
 
 ## Deployment
 This file is for review branch legal-site-review only. Do not merge or publish it as a final policy or Play Console submission without owner approval and the required technical/legal verification.
+
+## Owner decision update — general family audience (2026-11-08)
+
+The owner has confirmed that the intended audience is a general family audience including children, teens and adults. This supersedes earlier notes that described the product as general audience / not specifically child-directed and supersedes 13+ wording in earlier candidate Terms. The exact Play Console age bands still require a product suitability decision. Do not select every band automatically.
+
+Google Play mixed-audience ad requirements apply when the declared target age groups include children. Before any ads are served to children or users of unknown age, verify the required neutral age-screen behavior, child-directed ad request treatment, and every SDK/mediation adapter version against the current Families Self-Certified Ads SDK list. UMP is a consent/privacy messaging platform, not an age screen.
+
+The product's legal classification in each market remains a separate assessment. For example, the US COPPA analysis considers whether the service is directed to children or has actual knowledge of collecting children's personal information; the FTC's factors include subject matter, visual content, characters, activities/incentives, music, marketing and intended audience. In the EU, GDPR Article 8 digital-consent age rules depend in part on Member State law. These issues cannot be resolved by choosing an “18+” label or adding generic wording to a policy.
+
+References:
+- Google Play target audience: https://support.google.com/googleplay/android-developer/answer/9867159
+- Google Play Families Policy: https://support.google.com/googleplay/android-developer/answer/9893335
+- FTC COPPA FAQ: https://www.ftc.gov/business-guidance/resources/complying-coppa-frequently-asked-questions
+- KVKK digital games and personal data symposium: https://www.kvkk.gov.tr/Icerik/8289/Dijital-Oyunlar-ve-Kisisel-Verilerin-Korunmasi-Sempozyumu
+
