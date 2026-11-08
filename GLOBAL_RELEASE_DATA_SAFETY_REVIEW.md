@@ -70,3 +70,15 @@ References:
 - FTC COPPA FAQ: https://www.ftc.gov/business-guidance/resources/complying-coppa-frequently-asked-questions
 - KVKK digital games and personal data symposium: https://www.kvkk.gov.tr/Icerik/8289/Dijital-Oyunlar-ve-Kisisel-Verilerin-Korunmasi-Sempozyumu
 
+
+## Ad SDK version and child ad request cross-check (2026-11-08)
+
+The earlier 21D technical candidate records Google Mobile Ads Unity Plugin 11.6.0 and Android Google Mobile Ads SDK 25.5.0. Google's currently retrieved Families Self-Certified Ads SDK list identifies Google AdMob Android SDK 19.0.0 or later as self-certified. The recorded Android SDK version is above that listed minimum, but this is not final Release AAB proof. Confirm the resolved Android artifact version and current list status in the actual bundle; check every mediation adapter/custom event independently.
+
+For child or unknown-age ad requests, Google's AdMob guidance says to apply child-directed age treatment and set the maximum ad content rating to G. Confirm the current equivalent Unity API and verify it is applied on every applicable rewarded-ad request. Mixed-audience ad delivery also needs a compliant neutral age-screening path so non-child users can be distinguished from children; UMP consent messaging is not a substitute for age screening.
+
+Sources:
+- Families Self-Certified Ads SDK list: https://support.google.com/googleplay/android-developer/answer/12955712
+- AdMob Families implementation guidance: https://support.google.com/admob/answer/6223431
+- Target audience guidance: https://support.google.com/googleplay/android-developer/answer/9867159
+
