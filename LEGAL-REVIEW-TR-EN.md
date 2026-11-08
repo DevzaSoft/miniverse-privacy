@@ -140,3 +140,17 @@ The release remains **BLOCKED — do not publish/enable production ads yet**. In
 - [ ] Test evidence covers child, adult and unknown-age paths, UMP unavailable/error paths, offline behavior and rewarded-ad completion.
 - [ ] The Data safety form and privacy notices match the tested Release AAB and actual enabled services.
 
+
+## 12. Child privacy and international market review
+
+The owner has confirmed a general family audience including children, teens and adults. This does not by itself settle whether the game is “directed to children” under every jurisdiction's law. That classification can depend on the game's subject matter, visual presentation, characters, music, incentives, store listing, advertising and evidence of intended/actual audience.
+
+- **United States:** FTC COPPA applies to online services directed to children under 13 that collect/use/disclose children's personal information, and to general-audience services with actual knowledge of such collection. FTC guidance treats persistent identifiers and third-party ad-network collection as potentially relevant. Its “mixed audience” category is a subset of child-directed services, not a synonym for every service used by children. A qualified US privacy review is required before distribution/ads to US children. Source: https://www.ftc.gov/business-guidance/resources/complying-coppa-frequently-asked-questions
+- **European Economic Area:** GDPR Article 8 digital-consent thresholds for information-society services offered directly to children vary by Member State within the GDPR framework. Do not use a single pan-EU age threshold in the global policy; map the actual launch countries and any guardian-consent flow. Source: https://commission.europa.eu/law/law-topic/data-protection/information-business-and-organisations/children-and-data-protection_en
+- **Türkiye:** KVKK's digital-games symposium materials highlight the importance of child/teen data protection and age assurance, while noting that Turkish legislation does not currently set a GDPR-style uniform digital-consent age in the same way. This is not a substitute for a case-specific Turkish legal assessment. Source: https://www.kvkk.gov.tr/Icerik/8289/Dijital-Oyunlar-ve-Kisisel-Verilerin-Korunmasi-Sempozyumu
+- **Worldwide distribution:** the repository notes a worldwide release intention. A market-by-market matrix is required for child privacy, consumer protection, ad restrictions, data transfers and parental authority. If this cannot be completed before launch, restrict launch markets rather than claiming universal compliance.
+
+## 13. Legacy age-category data correction
+
+The prior 21D technical review notes that a legacy age-category file from an earlier version may be read for safety; new date-of-birth input is not collected. The public TR/EN Privacy Policy, KVKK notice and data-access/deletion pages have been updated to distinguish these facts. A legacy age category is not reliable age verification and is not parental permission. Its actual lifecycle, backup copies and deletion behavior still need confirmation against the final release build.
+
