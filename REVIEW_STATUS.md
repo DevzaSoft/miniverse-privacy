@@ -117,3 +117,8 @@ Do not ask the owner to publish early just to clear AdMob's app-review status. D
 ## Owner retention decision — 8 November 2026
 
 Ordinary support emails are to be retained for 12 months after the relevant support request is resolved, then developer-controlled copies must be deleted or genuinely anonymised. This period does not automatically apply to separate KVKK/data-subject requests, ongoing disputes, statutory retention duties or records strictly necessary for legal claims; these are assessed separately and retained only while necessary. The TR/EN Privacy Policy, KVKK Notice and Data Access/Deletion pages were updated consistently. Operational implementation in Gmail (resolution date marking and periodic deletion review) remains to be confirmed; Gmail does not automatically implement this custom retention rule.
+
+
+## First-launch legal acceptance gate issue — 8 November 2026
+
+Owner confirmed the first-launch screen displays Terms of Use and Privacy Policy and is intended to require an “I agree” action before proceeding. However, the “I agree” button is currently passive/disabled and cannot be clicked. Therefore the acceptance gate is currently non-functional; do not claim that acceptance is captured or that users have accepted the Terms. This is a release blocker requiring a Unity UI fix and verification across clean install, update, returning install, offline state, screen sizes and TR/EN. Keep Terms acceptance separate from UMP advertising/privacy consent and do not claim that Privacy Policy display itself is consent.
