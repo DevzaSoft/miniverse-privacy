@@ -165,3 +165,10 @@ The TR/EN public legal documents already declare the audience as 6–12 children
 Owner reports 29/29 Unity QA tests passed, zero Console errors and seven screenshots reviewed. Verified age 6, under-6 restriction, invalid/future DOB rejection, persistence reload and Settings classification. Terms Continue button remains disabled as expected in the current incomplete acceptance flow and is still a release blocker. 34 APK files preserved; Stage 13 not started.
 
 Full Stage 12 remains partial PASS. BLOCKED: Android clean install, native SDK initialization-order verification, comprehensive DOB leakage tests. Local report path supplied: `C:/UnityProjects/MiniVerseRoadPuzzleV1/Artifacts/MiniVerseV1/Stage12NeutralAgeGate/Validation/LATEST_RESULTS.md`; not independently inspected. Next: inspect report, physical-device clean install, prove no Mobile Ads/UMP initialization or network request before age resolution, scan logs/logcat/analytics/crash/local and cloud storage/network for full DOB, and separately fix/test Terms acceptance. Production ads disabled; no publication or Stage 13.
+
+
+## Android validation update — APK signing failed; retry not authorised — 8 November 2026
+
+Owner reports build failed during signing: `UnityException: Can not sign the application`. No new APK; install and Android tests BLOCKED. Device: Xiaomi 24090RA29C, Android 15 / API 35. Protected APKs intact: 34/34; no data deleted; no retry started. Stage 12 partial PASS; Stage 13 not started.
+
+Locally inspect Unity Publishing Settings keystore path/readability, alias existence and current-session password fields. Never share passwords, private keys or keystore credentials. Do not regenerate/change production signing identity casually. Any new build requires explicit owner retry approval and a fresh preflight/rollback checkpoint. Verify new APK signature and package identity before installation. Remaining Android startup, native AdMob/UMP ordering and DOB leakage tests stay BLOCKED. Production ads disabled; no publication.
