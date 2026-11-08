@@ -70,3 +70,8 @@ The owner has explicitly excluded children aged 5 and under from the intended au
 ## Support/privacy mailbox confirmation — 8 November 2026
 
 The owner confirmed direct consumer Gmail use of `devzasoft@gmail.com` for support and privacy correspondence, with no forwarding. The TR/EN KVKK drafts now identify consumer Gmail and do not misclassify Google as the developer's processor for this email flow. Google's official policy says consumer Gmail has no DPA and Google does not act as processor for the consumer service: https://support.google.com/policies/answer/9581826. Exact Google legal entity, processing countries, independent-controller purposes and any Article 9 transfer mechanism remain to be verified; no destination country or safeguard has been invented. The review also records the KVKK application-method distinction: email is a prescribed method when sent from an email address previously notified to and registered in the controller's system; other statutory methods remain available. See the official application procedure: https://kvkk.gov.tr/SharedFolderServer/CMSFiles/0517c528-a43d-49f5-b1eb-33dc666cb938.pdf.
+
+
+## Support mailbox security confirmation — 8 November 2026
+
+The owner confirmed two-step verification is enabled on `devzasoft@gmail.com`. The KVKK TR/EN drafts now state this specific control, without claiming that all account-security settings or the complete security programme have been audited. Remaining mailbox review: recovery methods, active sessions, connected apps, forwarding/filter rules and access permissions.
