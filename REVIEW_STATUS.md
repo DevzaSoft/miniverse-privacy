@@ -208,3 +208,10 @@ BLOCKED: authoritative Terms version/canonical URL/hash and verified deployed Pr
 Owner reports TR/EN Privacy/KVKK/data access/deletion documents corrected and acceptance record linked to Terms version, URL, two hashes, language, effective date and explicit user action. Automated results: 335/335 offline, 24/24 persistence, 3/3 C# builds; 34/34 APKs preserved. No build/Resolve/publication; Stage 13 not started.
 
 Gaps: secure age correction UI missing despite being described in legal disclosures; implement or correct disclosures. Device time is not independent verification; record its source honestly. BLOCKED: approved Terms configuration absent, Continue disabled, current Unity QA, physical touch and acceptance-to-menu E2E pending, and age-list Google Play policy status unresolved. Production ads disabled. Full Stage 12.1 PASS not granted.
+
+
+## Stage 12.1 latest QA — EditMode 86/86 PASS; full approval withheld — 8 November 2026
+
+Owner reports EditMode 86/86 PASS with no failures/skips. Initial 85/1 run was a test-only index error, corrected and archived. PlayMode pointer QA 53/53 PASS, Console 0 errors; offline 335/335 PASS; persistence 24/24 PASS. Tests verified acceptance record, language-change preservation, Terms checkbox + Continue gating, and no child-to-adult elevation. Timestamp remains `device-utc-unverified`. 34 APKs/Production settings preserved; no build/Resolve/publish; Stage 13 not started.
+
+Still BLOCKED: approved Terms authorization and live hash mapping incomplete, Continue disabled; safe age correction unverified; physical Android touch and acceptance-to-menu E2E not performed. No unrestricted age change was added; disclosures retain limitation. Keep ads disabled. Full Stage 12.1 PASS not granted.
