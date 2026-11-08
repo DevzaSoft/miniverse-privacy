@@ -106,3 +106,8 @@ Sources:
 ## Final owner age-band decision — 8 November 2026
 
 The owner has confirmed that children aged 5 and under are NOT part of the target audience. The intended target groups are 6–8, 9–12, 13–15, 16–17 and 18 and over, with children aged 6–12, teens and adults intended with equal priority. This supersedes any earlier uncertainty about preschool/toddler inclusion. In Play Console, select only these five consecutive age bands after confirming the game and store listing are suitable for each. Do not select “5 and under.” This audience decision does not remove Families requirements: the app still intentionally targets children under 13. Production ads remain disabled until the child/unknown-age ad treatment, any required neutral age screen for the mixed audience, SDK/adapter eligibility and applicable legal requirements are implemented and verified.
+
+
+## Final owner age-band decision — 8 November 2026
+
+The owner has confirmed that children aged 5 and under are NOT part of the target audience. The intended target groups are 6–8, 9–12, 13–15, 16–17 and 18 and over, with children aged 6–12, teens and adults intended with equal priority. This supersedes any earlier uncertainty about preschool/toddler inclusion. In Play Console, select only these five consecutive age bands after confirming the game and store listing are suitable for each. Do not select “5 and under.” This audience decision does not remove Families requirements: the app still intentionally targets children under 13. Production ads remain disabled until the child/unknown-age ad treatment, any required neutral age screen for the mixed audience, SDK/adapter eligibility and applicable legal requirements are implemented and verified.
