@@ -185,3 +185,10 @@ The owner explicitly approved one further Android APK build attempt, conditional
 ## Android retry successful — update install only — 8 November 2026
 
 Owner reports the single authorised build succeeded and signature matched the prior verified certificate. Package `com.devzasoft.miniverseroadpuzzle`, version `0.1.0` / code `1`; SHA-256 `EC2CB2F6EA4E5760E5A71DF18CE8FA518F83BE4AC45A54C8EDAA2C995FC65DE0`. In-place update installed without data loss. 34/34 protected APKs unchanged; production ads disabled. Clean-install and Android runtime tests remain BLOCKED. Do not uninstall or clear data on the user's primary phone; use a disposable test device/emulator or isolated test identity. Verify the reported APK and hash, inspect ControlledBuildRetry/SUMMARY.md, then test fresh install, age-gate flow, native AdMob/UMP initialization ordering and DOB leakage. No more builds without separate approval. Stage 12 partial PASS; Stage 13 not started; app not published.
+
+
+## Stage 12.1 status — unified onboarding automated tests passed; owner approval pending — 8 November 2026
+
+Owner reports single onboarding panel with language, unselected age list, legal links and separate Terms checkbox; DOB fields removed. Unity QA 51/51 PASS, Console 0 errors, offline 294/294 PASS, persistence 16/16 PASS, C# builds 4/4 PASS. 34/34 protected APKs unchanged. No APK/Resolve; production ads disabled.
+
+BLOCKED: approved Terms version, canonical URL and content hash are missing; Continue remains disabled. Real pointer/touch and post-acceptance end-to-end tests not complete. Next verify authoritative Terms and Privacy URLs/version/hash, run touch and full acceptance flow tests, confirm explicit acceptance record and returning-user navigation. Do not infer/fabricate legal URLs or hashes. Age picker requires separate Google Play Families policy review. No build, ads, publish or Stage 13 until evidence is complete and owner approves.
