@@ -1,0 +1,46 @@
+> GÜNCEL SAHİP KARARI (9 Kasım 2026): MiniVerse Road Puzzle'ın kesin hedef kitlesi 16 yaş ve üzeridir; oyun çocuklar için tasarlanmamıştır. Bu karar önceki 0–12, 6+, 13+ ve karma kitle beyanlarının tamamının yerini alır. Uygulamada yaş/DOB sorulmaz; yaş doğrulaması, sınıflandırması veya yaşa dayalı reklam yönlendirmesi yapılmaz. Bu hedef kitle beyanı kullanıcının yaşını doğrulamaz ve 16 yaş altının erişimini teknik olarak engellediği anlamına gelmez. Bu dosya yalnız inceleme adayıdır; yayıncı veya hukukçu onayı değildir.
+
+> SADECE İNCELEME ADAYI — Yayımlanmamıştır; yayıncı veya hukukçu onayı verilmiş değildir. İnceleme sürümü: **16P-rc1**, tarih: **2026-11-09**. Önerilen yürürlük kuralı: bütün açık alanlar tamamlanıp malikin ayrıca onayladığı yayın gününde veya açıkça seçtiği daha sonraki tarihte yürürlük; bugün yürürlükte değildir. Kesin tarih: [OWNER_APPROVED_EFFECTIVE_DATE].
+
+Veri sorumlusu/hizmet sağlayıcı: **Barışcan DEDEOĞLU**. Marka: **DEVZASOFT**. Bireysel geliştirici. İletişim: **devzasoft@gmail.com**. Uygulama: **MiniVerse Road Puzzle**, paket: **com.devzasoft.miniverseroadpuzzle**. Konut adresi bu adayda yayımlanmaz. Gerekli resmi başvuru/tebligat kanalının hukuka uygun, konut adresini ifşa etmeyen çözümü yayın öncesi incelenmelidir; e-posta tek başına her şartı karşılıyor sayılmaz.
+
+# MiniVerse Road Puzzle — Gizlilik Politikası
+
+## 1. Biz kimiz?
+MiniVerse Road Puzzle, devzasoft yayıncı markasıyla sunulur. Veri sorumlusu/hizmet sağlayıcı gerçek kişi: Barışcan DEDEOĞLU; yerleşim ülkesi: [ESTABLISHMENT_COUNTRY]; tebligat/hizmet adresi: [NON_RESIDENTIAL_SERVICE_CHANNEL_LEGAL_REVIEW]. Destek: devzasoft@gmail.com. Resmi veri koruma başvuru kanalı: [FORMAL_REQUEST_CHANNEL]. Marka adı ayrı bir şirketin varlığını göstermez.
+
+## 2. Hesap ve cihazdaki oyun verileri
+Oyunda hesap açma, isim/e-posta/parola veya doğum tarihi girme alanı yoktur. İlerleme, yıldızlar, en iyi hamle, şehirler, başarımlar, yakıt ve yenilenme zamanları, ses/parlaklık/öğretici tercihleri, dil ve ilk açılış durumu cihazdaki uygulama dosyalarında tutulur. Ödül tekrarını önlemek için işlem ve oyun oturumu makbuzları ile yerel teknik kayıtlar bulunur. Bu oyun verilerini geliştirici sunucusuna otomatik yükleyen bir yol tespit edilmemiştir. Android yedekleme ve cihaz aktarımı kopyalar oluşturabilir; yalnız cihazda kalacakları garanti edilmez.
+
+## 3. Yaş ve genç kullanıcılar
+## 3. Hedef kitle ve yaş verisi
+MiniVerse Road Puzzle'ın yayıncı tarafından belirlenen hedef kitlesi 16 yaş ve üzeridir; oyun çocuklar için tasarlanmamıştır. Bu ifade ürünün hedef kitlesini açıklar, kullanıcının yaşını doğrulamaz. Güncel uygulama akışında yaş veya doğum tarihi sorulmaz; yaş doğrulama ekranı, yaş sınıflandırma servisi, yaş kategorisi kaydı ve yaşa göre reklam yönlendirmesi bulunmaz. Uygulama, kullanıcının 16 yaşında veya daha büyük olduğunu teknik olarak doğruladığını ya da 16 yaş altındaki erişimi engellediğini iddia etmez. 16–17 yaşındaki kullanıcılar her ülkede hukuken yetişkin sayılmaz; sözleşme ehliyeti, kişisel veri ve reklam kuralları ülkeye göre değişebilir. Bu nedenle 16+ hedef kitle beyanı, uygulanabilir zorunlu genç kullanıcı korumalarını ortadan kaldırmaz.
+
+## 4. Reklamlar ve gizlilik tercihleri
+## 4. Reklamlar ve gizlilik tercihleri
+İncelenen mevcut Production yapılandırmasında reklam başlatma ve reklam isteği gönderme kapalıdır. Google Mobile Ads ve Google User Messaging Platform paketleri projede bulunabilir; SDK paketlerinin projede bulunması tek başına Production'da başlatıldıklarını veya reklam isteği gönderildiğini kanıtlamaz. Mevcut reklam sağlayıcısı planı Google AdMob'dur; canlı hesap ayarları, son Release bağımlılıkları ve olası aracı/mediation kaynakları ayrıca doğrulanmadan başka reklam ortağı veya veri alıcısı varmış ya da yokmuş gibi kesin beyanda bulunulmaz.
+Reklamlar gelecekte etkinleştirilirse Google ve ilgili hizmet sağlayıcıları, seçilen SDK/UMP yapılandırmasına ve kullanıcının bölgesine göre IP/ağ bilgisi, cihaz veya reklam tanımlayıcıları, reklam etkileşimleri, izin tercihleri ve tanılama verilerini işleyebilir. Bu olasılık, mevcut Production'da reklam isteği gönderildiği anlamına gelmez. Kişiselleştirme, reklam kimliği, hassas reklam kategorileri, UMP mesajları ve bölgesel kısıtlamalar ancak güncel teknik yapılandırma ve yürürlükteki kurallar doğrulandıktan sonra etkinleştirilebilir. 16–17 yaşındaki kullanıcılar için geçerli yerel genç kullanıcı korumaları ayrıca değerlendirilir.
+UMP gizlilik tercihi, Kullanım Şartları kabulünden ayrıdır; Gizlilik Politikası'nı görüntülemek de sözleşme kabulü veya reklam izni değildir. UMP'nin Production başlangıcı mevcut yapılandırmada kapalıdır. Gelecekte gerekli UMP akışı etkinleştirilirse uygun gizlilik seçeneklerine erişim ve bölgesel bilgilendirme sağlanmalıdır. Production reklamları, gerekli teknik ve hukuki doğrulamalar tamamlanıp ayrıca yayıncı onayı verilene kadar kapalı kalır.
+
+## 5. SDK ve ağ verileri
+Google Mobile Ads Unity 11.6.0, Android GMA 25.5.0 ve UMP 4.0.0 projede kalır. Google'ın sürüm açıklaması reklam SDK'sı için IP/genel konum, cihaz veya hesap tanımlayıcıları, etkileşim ve tanılama kategorilerini belirtir. Bu kapalı profilin native bileşenlerinde neyin gerçekten iletildiği ve hangi alıcıda tutulduğu henüz ölçülmemiştir. Reklam kimliği izinlerini kaldıran yapılandırma bütün tanımlayıcıları ortadan kaldırdığı anlamına gelmez. UMP kendi izin/teknik iletişimini yapabilir; reklam isteğiyle aynı işlem değildir. SDK ayrıntıları ayrı üçüncü taraf açıklamasındadır.
+
+## 6. Destek ve dış bağlantılar
+Siz e-posta gönderirseniz gönderen adresi, mesaj ve seçtiğiniz ekler devzasoft ve posta hizmetleri tarafından destek amacıyla işlenebilir. Lütfen parola, reklam kimliği, izin belirteci veya gereksiz kimlik belgesi göndermeyin. Uygulama dışındaki politika sayfaları tarayıcınız ve GitHub Pages/ağ sağlayıcılarıyla iletişim kurabilir. Siteye ait çerez/analytics davranışı burada doğrulanmış değildir.
+
+## 7. Amaçlar ve hukuki sebepler
+Amaçlar: oyuna devam ve tercihleri uygulama; varsa onaylı şart sürümü/kabul kaydı; ödül tekrarını önleme; destek; hak talepleri; uygun olduğu takdirde reklam ve izin yönetimi. Her amaç için uygulanacak hukuki sebep ayrı tamamlanmalıdır: [BASIS_LOCAL_GAME], [BASIS_LEGAL_RECORD], [BASIS_REWARD_SECURITY], [BASIS_SUPPORT], [BASIS_RIGHTS_REQUEST], [BASIS_ADS_AND_DEVICE_STORAGE], [BASIS_CONSENT_RECORD]. Bunlar otomatik açık rıza veya meşru menfaat olarak doldurulmamıştır. KVKK aydınlatma metni ayrı belgedir ve rıza değildir.
+
+## 8. Alıcılar ve yurt dışı aktarımlar
+Muhtemel hizmet zinciri Google reklam/izin hizmetleri, e-posta sağlayıcıları, kullanıcı tarafından açılan web hosting ve OS yedekleme hizmetlerini içerir. Uygulanabilir gerçek sözleşme tarafları, veri sorumlusu/veri işleyen rolleri ve ülkeler [RECIPIENT_ROLE_REGISTER] / [TRANSFER_COUNTRIES] ile tamamlanmalıdır. KVKK madde 9 dayanağı [KVKK_ART9_MECHANISM], uygulanıyorsa GDPR aktarım güvencesi [GDPR_TRANSFER_MECHANISM] belirlenmemiştir. UMP tercihi bu eksikleri tek başına çözmez. Verilerin yalnız Türkiye'de/AB'de kaldığı söylenemez.
+
+## 9. Saklama, silme ve güvenlik
+Yerel dosyalarda gün bazlı genel silme süresi yoktur. Ayar sıfırlaması yalnız belirtilen oyun tercihlerini sıfırlar; ilerleme, yakıt, eski yaş kaydı ve Google/OS kayıtlarını topluca silmez. Android uygulama verilerini temizlemek ilerlemeyi kaybettirebilir; kaldırma ve bulut yedeği silme etkileri ayrı değerlendirilmelidir. Destek ve hak talepleri için süreler [SUPPORT_RETENTION] / [RIGHTS_REQUEST_RETENTION]; SDK/OS verileri için doğrulanmış ayrıntılar [PROVIDER_RETENTION_REGISTER]. Google genel saklama örnekleri bütün UMP/reklam kayıtlarımız için tek süre değildir. Mutlak güvenlik veya silinen yedeğin geri dönmeyeceği garantisi verilmez.
+
+
+Olağan destek e-posta yazışmaları, ilgili destek konusu çözüldükten sonra 12 ay saklanır ve ardından silinir. Devam eden uyuşmazlık veya belirli bir yasal yükümlülük nedeniyle daha uzun saklama gerekirse istisnanın nedeni ve kapsamı ayrıca kaydedilir. Bu süre, hak başvurusu kayıtları veya Google/diğer sağlayıcı kayıtları için otomatik olarak geçerli değildir.
+## 10. Haklarınız ve iletişim
+Uygulanan hukuka göre bilgi ve erişim, düzeltme, silme, itiraz, kısıtlama, taşınabilirlik ve gerekiyorsa rızayı geri alma haklarınız olabilir. Yetkili veri koruma makamına şikâyet hakkı saklıdır. devzasoft@gmail.com üzerinden ilk iletişim kurabilirsiniz; resmi başvuru yöntemi [FORMAL_REQUEST_CHANNEL] tamamlanacaktır. Talebinizi anlamak için gerekenle sınırlı doğrulama yapılmalıdır; uzaktan erişemediğimiz yerel verileri sunucudan silebileceğimiz sözü verilmez. Ayrı Haklar ve İletişim Prosedürü ayrıntıları açıklar.
+
+## 11. Değişiklikler
+Belge sürümü [APPROVED_RELEASE_VERSION] ve yürürlük tarihi [OWNER_APPROVED_EFFECTIVE_DATE] yayıncı incelemesi sonrasında belirlenecektir. Önemli veri uygulaması değişikliklerinde açıklamalar ve gerekli izinler ayrıca güncellenmelidir. Bu taslak henüz uygulamadaki belge veya canlı site yerine geçirilmemiştir.
