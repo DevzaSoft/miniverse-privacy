@@ -1,6 +1,8 @@
 # MiniVerse Road Puzzle — Global Release Privacy and Data Safety Review
 
-Date: 2026-11-07
+> **CURRENT OWNER DECISION — 9 November 2026:** Intended audience is **16+**; the game is not designed for children. This supersedes the historical audience assumptions in this file, including the child-only 0–12 decision. The current app does not collect age/DOB, verify age, classify by age, store age categories or route advertising by age. This declaration does not verify age or technically block under-16 access; 16–17-year-olds may be minors under local law. Production AdMob/UMP initialization and ad requests remain disabled. Do not activate ads or submit a Data safety declaration based on the old child-only assumptions. The 16P-rc1 TR/EN documents are review candidates only and are not approved or deployed. Final Data safety answers require verification of the exact Release artifact, merged manifest, SDK behavior, actual network payloads, recipients and backup behavior. See the latest owner decision in the companion Legal Review, Section 47.
+
+Date: 2026-11-09
 Status: REVIEW DRAFT ONLY — not a submitted Play Console declaration.
 
 ## Confirmed publisher decisions
