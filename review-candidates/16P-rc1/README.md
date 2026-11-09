@@ -1,3 +1,7 @@
+
+## Publisher correction — AdMob release target (9 November 2026)
+
+**Supersedes any contrary release-plan statements above:** The publisher explicitly wants Google AdMob advertising **enabled in the released game** and reports having enabled it previously. Earlier review snapshots stating that Production AdMob/UMP is disabled are **not authorization to keep ads off** and must not be treated as the final product decision. The present Unity project, its actual runtime initialization and the final Release build have **not** been inspected in this document-only correction; their current enabled/disabled state remains unverified. The release plan is to restore/retain working AdMob ads, verify actual SDK data flows and implement applicable consent, disclosures and Play Console Data safety declarations. Do not make a unilateral decision to disable advertising. No Unity code, AdMob console configuration, Play Console settings or live legal pages were changed here. Existing contradictory snapshot wording is historical and requires cleanup in the next full editorial pass.
 # MiniVerse Road Puzzle — 16P-rc1 legal review candidates
 
 **Status:** Review candidates only. Not legal advice, not approved by the owner, not approved by counsel, not published, and not deployed.
