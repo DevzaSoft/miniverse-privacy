@@ -31,4 +31,12 @@ Uygulanabilir koşullarda işlenip işlenmediğini öğrenme, işlenmişse bilgi
 
 Başvuru [FORMAL_REQUEST_CHANNEL] üzerinden, yürürlükteki usule uygun alınacaktır. devzasoft@gmail.com ilk iletişim adresidir; tek başına bütün resmi başvuru şartlarını karşıladığı iddia edilmez. KVKK başvuruları en kısa sürede ve en geç 30 gün içinde, uygulanabilir usul/ücret kurallarıyla sonuçlandırılmalıdır. Kuruma şikâyet yolu ve süreleri saklıdır. Gerekli resmi başvuru alanları ve güvenli kimlik doğrulama yöntemi yayın öncesinde tamamlanmalıdır; varsayılan olarak kimlik fotoğrafı istenmez.
 
+## Resmî mevzuat ve uygulama notları
+
+- KVKK m.10 aydınlatma yükümlülüğü; veri sorumlusunun kimliği, işleme amaçları, aktarılabilecek alıcılar ve amaçları, toplama yöntemi/hukuki sebep ve ilgili kişi hakları hakkında bilgi verilmesini gerektirir. Aydınlatma, açık rıza alınmasından ayrı bir yükümlülüktür.
+- Kurumun kamuoyu duyurusu, aydınlatma metninin açık rıza ile birleştirilmemesi ve aydınlatmanın yapıldığına dair zorunlu bir onay kutusuyla hizmetin koşullandırılmaması gerektiğini özellikle belirtir. MiniVerse ilk açılışında Gizlilik/KVKK bağlantıları bilgilendirme amacıyla sunulmalı; yalnız Kullanım Şartları kabulü ayrı ve açık kullanıcı eylemi olmalıdır. UMP tercihi de ayrı kalmalıdır.
+- 1 Haziran 2024'te yürürlüğe giren m.9 değişikliği uyarınca yurt dışına aktarım için uygun mekanizma, gerçek alıcı/roller ve aktarım koşulları somut olarak belirlenmelidir. Standart sözleşme kullanılırsa imzadan itibaren beş iş günü içinde Kuruma bildirim yükümlülüğü bulunur. Bu metin, MiniVerse için böyle bir sözleşmenin bulunduğunu iddia etmez.
+
+Resmî kaynaklar: [KVKK m.10 aydınlatma yükümlülüğü](https://www.kvkk.gov.tr/Icerik/2033/Aydinlatma-Yukumlulugu-), [aydınlatma hakkında kamuoyu duyurusu](https://www.kvkk.gov.tr/Icerik/6765/AYDINLATMA-YUKUMLULUGUNUN-YERINE-GETIRILMESI-HAKKINDA-KAMUOYU-DUYURUSU), [yurt dışına aktarım m.9](https://www.kvkk.gov.tr/Icerik/2053/Yurtdisina-Aktarim).
+
 Kaynak: [KVKK aydınlatma yükümlülüğü](https://www.kvkk.gov.tr/Icerik/2033/Aydinlatma-Yukumlulugu-), [başvuru süreleri](https://www.kvkk.gov.tr/Icerik/5358/Kamuoyu-Duyurusu). Yürürlük/sürüm [OWNER_APPROVED_EFFECTIVE_DATE] / [APPROVED_RELEASE_VERSION].
