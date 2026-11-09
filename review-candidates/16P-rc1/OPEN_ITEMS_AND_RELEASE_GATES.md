@@ -99,3 +99,17 @@ These references explain the legal framework; they do not determine MiniVerse's 
 - The email is not described as a physical address and is not represented as automatically satisfying every statutory formal-notice, service or KVKK application requirement.
 - DEVZASOFT is not represented as a separate incorporated company or legal entity.
 - The controller/provider legal identity and any legally required formal service details remain a publication gate. The publisher brand must not be substituted for the controller's legal identity where law requires disclosure of that identity.
+## I. KVKK application channel clarified — 9 November 2026
+
+- The owner-designated privacy contact email is **devzasoft@gmail.com** and is included in the TR/EN documents as the initial contact/request email.
+- The official Turkish application methods under Article 13 and Article 5 of the Application Communiqué include written submission, KEP, secure electronic signature, mobile signature, an email address previously notified by the data subject and recorded in the controller's system, or an application developed for that purpose.
+- Merely publishing the controller's Gmail contact does not mean every ordinary email from any user is automatically a formally valid KVKK application.
+- The Communiqué's required application particulars include the applicant's name/surname, signature for written submissions, Turkish ID number or foreign applicant's nationality/passport/ID number, the applicant's address for notification, any notification email/phone/fax, and the subject of the request. The applicant's notification address is not the publisher's contact email.
+- No controller postal address, KEP address or dedicated in-app rights-request workflow has been invented. If one is later established, documents and operational procedures must be updated together.
+
+Official sources:
+- [KVKK — Communiqué on application procedures (PDF)](https://www.kvkk.gov.tr/SharedFolderServer/CMSFiles/bf638c8f-7455-49a7-8118-3eb2858a16b5.pdf)
+- [KVKK — Public announcement on procedural requirements for complaints](https://www.kvkk.gov.tr/Icerik/6938/Kurumumuza-Yapilan-Sikayetlerin-Usul-Sartlarina-Iliskin-Kamuoyu-Duyurusu)
+- [KVKK — Article 10 notice obligation](https://www.kvkk.gov.tr/Icerik/2033/Aydinlatma-Yukumlulugu-)
+
+This clarification is not a legal opinion and does not establish that the published Gmail address alone satisfies every formal statutory application or service requirement.
