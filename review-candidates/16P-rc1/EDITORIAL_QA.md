@@ -74,3 +74,14 @@ Key unresolved categories include establishment/service address or lawful servic
 - Rechecked all eight Markdown/HTML pairs: heading structures match **8/8**, language attributes **8/8**, noindex/nofollow **8/8**, review-only banners **8/8**, all-eight navigation links **8/8**, stale current-audience claims **0**, adjacent duplicate headings **0**.
 
 The legal grounds, recipient roles, transfer countries/mechanisms, formal request channel, and retention periods for non-support records remain open. This follow-up is legal-framework research and editorial QA only; it is not a legal opinion or approval.
+
+## Owner factual confirmation and 2026 Board principle update
+
+- Owner confirmed that the publisher's establishment/business country is **Türkiye**.
+- This confirmation resolves the country field only. The exact registered legal name of the data controller, official business/notification address, formal privacy-request channel and any representative details are not yet established by documentary evidence.
+- Added the Turkish Personal Data Protection Board's 18 February 2026 Principle Decision No. 2026/347 to the TR/EN KVKK notices, emphasizing separate information notices and explicit-consent texts and prohibiting a read-acknowledgement from being made a service condition.
+- Regenerated the TR/EN KVKK HTML mirrors from their updated Markdown sources.
+
+Official source: [KVKK announcement on Board Principle Decision 2026/347](https://www.kvkk.gov.tr/Icerik/8710/veri-sorumlulari-tarafindan-acik-riza-ve-aydinlatma-metinlerinin-ayri-ayri-duzenlenmesi-gerektigi-hakkinda-kisisel-verileri-koruma-kurulunun-18-02-2026-tarihli-ve-2026-347-sayili-ilke-kararina-iliskin-kamuoyu-duyurusu).
+
+This is an editorial/regulatory-reference update, not legal approval or confirmation that MiniVerse's actual data flows comply.
