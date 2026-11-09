@@ -69,3 +69,20 @@ Do not publish or connect these documents to the app until all applicable items 
 ## F. Explicitly out of scope for this document-only pass
 
 No Unity code, onboarding behavior, acceptance configuration, APK/AAB, Play Console declaration, production ad configuration, live root policy page or production deployment is changed by this register.
+
+## G. Verified Turkish regulatory guidance incorporated into the review
+
+The following official guidance has been checked and is reflected in the TR/EN KVKK candidates:
+
+- KVKK Article 10 notice must cover controller identity, processing purposes, recipient groups and transfer purposes, collection method/legal grounds, and data-subject rights.
+- The Authority's public announcement warns against combining the information notice with explicit consent or requiring a checkbox confirming that the notice was read as a condition of service. Product implementation should keep Privacy/KVKK links informational, Terms acceptance a separate affirmative action, and UMP privacy choices separate.
+- The Article 9 international-transfer framework changed effective 1 June 2024. The actual transfer route must be determined from real recipients, roles, countries and contractual arrangements. If a standard contract is used, the Authority states that it must be notified within five business days after signature.
+- The 30-day KVKK response wording in the candidate concerns the controller's response to a valid data-subject application under the applicable procedure; it is not a general data-retention period.
+
+Official sources:
+- [KVKK — Notice obligation](https://www.kvkk.gov.tr/Icerik/2033/Aydinlatma-Yukumlulugu-)
+- [KVKK — Public announcement on fulfilling the notice obligation](https://www.kvkk.gov.tr/Icerik/6765/AYDINLATMA-YUKUMLULUGUNUN-YERINE-GETIRILMESI-HAKKINDA-KAMUOYU-DUYURUSU)
+- [KVKK — International transfers / Article 9](https://www.kvkk.gov.tr/Icerik/2053/Yurtdisina-Aktarim)
+- [KVKK — Statutory text and Article 5 processing conditions](https://www.aile.gov.tr/kvkk/mevzuat/)
+
+These references explain the legal framework; they do not determine MiniVerse's purpose-specific legal grounds, establish that a transfer mechanism exists, or replace Turkish counsel's review.
