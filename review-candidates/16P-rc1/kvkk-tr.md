@@ -31,6 +31,10 @@ Uygulanabilir koşullarda işlenip işlenmediğini öğrenme, işlenmişse bilgi
 
 Başvuru [FORMAL_REQUEST_CHANNEL] üzerinden, yürürlükteki usule uygun alınacaktır. devzasoft@gmail.com ilk iletişim adresidir; tek başına bütün resmi başvuru şartlarını karşıladığı iddia edilmez. KVKK başvuruları en kısa sürede ve en geç 30 gün içinde, uygulanabilir usul/ücret kurallarıyla sonuçlandırılmalıdır. Kuruma şikâyet yolu ve süreleri saklıdır. Gerekli resmi başvuru alanları ve güvenli kimlik doğrulama yöntemi yayın öncesinde tamamlanmalıdır; varsayılan olarak kimlik fotoğrafı istenmez.
 
+## 2026/347 sayılı İlke Kararı — aydınlatma ve açık rıza ayrımı
+
+Kişisel Verileri Koruma Kurulunun 18.02.2026 tarihli ve 2026/347 sayılı İlke Kararı, aydınlatma metinleri ile açık rıza metinlerinin ayrı ayrı düzenlenmesi gerektiğini vurgular. Aydınlatma metni, ilgili kişiye veri sorumlusunun kendi gerçek işleme faaliyetleri hakkında açık, belirli ve anlaşılır bilgi vermelidir; başka bir uygulamanın veya sağlayıcının metni olduğu gibi kopyalanmamalıdır. Aydınlatma yapıldığına dair onay/rıza alınması veya bu onayın hizmetin ön şartı hâline getirilmesi uygun değildir. MiniVerse onboarding akışında Gizlilik/KVKK belgeleri bilgilendirme bağlantıları olarak sunulmalı; Kullanım Şartları kabulü ayrı bir kullanıcı eylemi, UMP tercihleri ise kendi hukuki/teknik bağlamında ayrı tutulmalıdır.
+
 ## Resmî mevzuat ve uygulama notları
 
 - KVKK m.10 aydınlatma yükümlülüğü; veri sorumlusunun kimliği, işleme amaçları, aktarılabilecek alıcılar ve amaçları, toplama yöntemi/hukuki sebep ve ilgili kişi hakları hakkında bilgi verilmesini gerektirir. Aydınlatma, açık rıza alınmasından ayrı bir yükümlülüktür.
