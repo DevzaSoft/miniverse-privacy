@@ -85,3 +85,15 @@ The legal grounds, recipient roles, transfer countries/mechanisms, formal reques
 Official source: [KVKK announcement on Board Principle Decision 2026/347](https://www.kvkk.gov.tr/Icerik/8710/veri-sorumlulari-tarafindan-acik-riza-ve-aydinlatma-metinlerinin-ayri-ayri-duzenlenmesi-gerektigi-hakkinda-kisisel-verileri-koruma-kurulunun-18-02-2026-tarihli-ve-2026-347-sayili-ilke-kararina-iliskin-kamuoyu-duyurusu).
 
 This is an editorial/regulatory-reference update, not legal approval or confirmation that MiniVerse's actual data flows comply.
+
+## Publisher-name clarification — 9 November 2026
+
+- Owner clarified that **DEVZASOFT is the publisher name/display brand**, not the registered legal name of a separate company.
+- TR/EN Privacy Policy, KVKK notice and Terms now distinguish the publisher brand from the individual/natural-person provider/controller identified in the draft.
+- The documents no longer describe DEVZASOFT as an incorporated company or imply that the brand itself is a legal entity.
+- Owner-confirmed establishment country **Türkiye** has replaced the country placeholder in these six Markdown documents.
+- Regenerated the six corresponding HTML review mirrors.
+- Remaining identity gate: verify the exact legal name/spelling against official records and determine the lawful official notification/privacy-request channel and address before publication.
+- Remaining placeholders are still present for purpose-specific legal grounds, recipient roles, transfer countries/mechanisms, retention schedules, licence/consumer/dispute terms, version, effective date and canonical URLs.
+
+This update records the publisher name distinction only. It does not establish a trade registry entry, business entity, tax status, formal service address or legal approval.
