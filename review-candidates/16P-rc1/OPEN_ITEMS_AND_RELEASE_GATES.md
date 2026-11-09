@@ -76,6 +76,7 @@ The following official guidance has been checked and is reflected in the TR/EN K
 
 - KVKK Article 10 notice must cover controller identity, processing purposes, recipient groups and transfer purposes, collection method/legal grounds, and data-subject rights.
 - The Authority's public announcement warns against combining the information notice with explicit consent or requiring a checkbox confirming that the notice was read as a condition of service. Product implementation should keep Privacy/KVKK links informational, Terms acceptance a separate affirmative action, and UMP privacy choices separate.
+- On 18 February 2026, the Board adopted Principle Decision 2026/347 requiring information notices and explicit-consent texts to be arranged separately. The Authority's 2026 announcement highlights misleading/blanket wording and failure to tailor notices to the controller's own processing. MiniVerse's notices must describe its verified app-specific data flows; generic vendor templates are not sufficient.
 - The Article 9 international-transfer framework changed effective 1 June 2024. The actual transfer route must be determined from real recipients, roles, countries and contractual arrangements. If a standard contract is used, the Authority states that it must be notified within five business days after signature.
 - The 30-day KVKK response wording in the candidate concerns the controller's response to a valid data-subject application under the applicable procedure; it is not a general data-retention period.
 
