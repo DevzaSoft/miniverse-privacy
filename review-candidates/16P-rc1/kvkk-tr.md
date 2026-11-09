@@ -6,6 +6,8 @@ Yayıncı adı ve kullanıcıya gösterilen iletişim kimliği: **DEVZASOFT**. K
 
 # MiniVerse Road Puzzle — KVKK Aydınlatma Metni
 
+**Veri akışının özeti:** Oyuncu ilerlemesi ve oyun tercihleri uygulama içinde cihazda tutulur; DEVZASOFT'un bu kayıtları topladığı bir geliştirici sunucusu veya oyuncu hesabı bulunmamaktadır. İşletim sistemi yedekleri, kullanıcının gönderdiği destek e-postaları, dış hukuki sayfalar ve gelecekte etkinleştirilebilecek Google AdMob/UMP hizmetleri ayrı veri akışlarıdır. Üçüncü taraf işlemlerinin tümü otomatik olarak DEVZASOFT'un sunucu verisi değildir; ancak gerekli aydınlatma ve uygun hukuki değerlendirme sorumlulukları devam eder. Mevcut Production reklamları kapalıdır.
+
 Bu metin 6698 sayılı Kanun kapsamındaki bilgilendirme için hazırlanmıştır. Gizlilik politikası, Kullanım Şartları veya açık rıza beyanı değildir. Aşağıdaki hukuki sebep/kimlik alanları tamamlanmadan nihai aydınlatma olarak yayımlanmamalıdır.
 
 ## Veri sorumlusu
