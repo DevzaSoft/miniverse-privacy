@@ -1,0 +1,46 @@
+> CURRENT OWNER DECISION (9 November 2026): MiniVerse Road Puzzle's definitive intended audience is 16 and older; the game is not designed for children. This supersedes all prior 0–12, 6+, 13+ and mixed-audience declarations. The app does not ask for age/DOB and does not perform age verification, age classification or age-based ad routing. This intended-audience statement does not verify a user's age or technically prevent access by someone under 16. This file is a review candidate only, not owner or legal approval.
+
+> REVIEW CANDIDATE ONLY — Not published; neither owner publication approval nor professional legal approval is recorded. Review version: **16P-rc1**, reviewed **2026-11-09**. Proposed effective-date rule: the separately owner-approved publication date, or a later date explicitly chosen by the owner, after all open issues are resolved; not effective today. Exact date: [OWNER_APPROVED_EFFECTIVE_DATE].
+
+Controller/service provider: **Barışcan DEDEOĞLU**. Brand: **DEVZASOFT**. Individual developer. Contact: **devzasoft@gmail.com**. App: **MiniVerse Road Puzzle**, package: **com.devzasoft.miniverseroadpuzzle**. No residential address is published in this candidate. A lawful formal request/service channel without disclosing a residential address must be reviewed before publication; email alone is not assumed to satisfy every requirement.
+
+# MiniVerse Road Puzzle — Privacy Policy
+
+## 1. Who we are
+MiniVerse Road Puzzle is offered under the publisher brand devzasoft. The individual controller/service provider is Barışcan DEDEOĞLU, established in [ESTABLISHMENT_COUNTRY], with service address [NON_RESIDENTIAL_SERVICE_CHANNEL_LEGAL_REVIEW]. Support: devzasoft@gmail.com. Formal privacy request channel: [FORMAL_REQUEST_CHANNEL]. The brand does not establish a separate incorporated company.
+
+## 2. Accounts and game data on your device
+The game has no account registration, name/email/password or date-of-birth entry. Progress, stars, best moves, cities, achievements, fuel and renewal times, audio/brightness/tutorial preferences, language and first-launch state are stored in application files on the device. Reward transaction/run receipts and local technical records help prevent duplicate rewards. No automatic upload of these game records to a developer server was identified. Android backup and device transfer may create copies; exclusive on-device storage is not guaranteed.
+
+## 3. Age and younger users
+## 3. Intended audience and age data
+The publisher's declared intended audience for MiniVerse Road Puzzle is 16 and older; the game is not designed for children. This describes the product's intended audience and does not verify a user's age. The current app flow does not ask for age or date of birth and contains no age-verification screen, age-classification service, age-category storage or age-based ad routing. The app does not claim to technically verify that a user is at least 16 or to prevent access by someone under 16. Users aged 16–17 are not legally adults in every jurisdiction; contractual capacity, personal-data and advertising rules vary by country. The 16+ intended-audience statement therefore does not remove any mandatory protections applicable to younger users.
+
+## 4. Advertising and privacy choices
+## 4. Advertising and privacy choices
+In the currently reviewed Production configuration, advertising initialization and ad requests are disabled. Google Mobile Ads and Google User Messaging Platform packages may be present in the project; package presence alone does not prove that either SDK is initialized or that an ad request is sent in Production. Google AdMob is the intended ad provider. The live account settings, final Release dependencies and any mediation sources must be verified before making definitive statements about additional advertising partners or recipients.
+If advertising is enabled in the future, Google and relevant service providers may process IP/network information, device or advertising identifiers, ad interactions, privacy choices and diagnostics depending on the selected SDK/UMP configuration and the user's region. This possibility does not mean that Production currently sends ad requests. Personalization, advertising identifiers, sensitive ad categories, UMP messages and regional restrictions may only be enabled after the current technical configuration and applicable rules have been verified. Mandatory local protections for users aged 16–17 must be assessed separately.
+A UMP privacy choice is separate from acceptance of the Terms; viewing the Privacy Policy is neither contractual acceptance nor advertising consent. UMP Production initialization is disabled in the current configuration. If the required UMP flow is enabled later, appropriate privacy-choice access and regional notices must be provided. Production advertising remains disabled until the required technical and legal checks are complete and the publisher separately authorizes release.
+
+## 5. SDK and network data
+The project retains Google Mobile Ads Unity 11.6.0, Android GMA 25.5.0 and UMP 4.0.0. Google's version disclosure identifies IP/general location, device or account identifiers, interactions and diagnostic categories for its advertising SDK. Actual transmission and recipient storage by native components in this disabled profile have not been measured. Removing advertising ID permissions does not establish the absence of all identifiers. UMP may make its own privacy/technical network requests; these are distinct from ad requests. See the separate third-party disclosure.
+
+## 6. Support and external links
+If you email us, your sender address, message and chosen attachments may be processed by devzasoft and email services for support. Please do not send passwords, advertising IDs, consent tokens or unnecessary identity documents. External policy pages may connect your browser to GitHub Pages/network services. Website cookie/analytics behavior has not been verified here.
+
+## 7. Purposes and legal grounds
+Purposes are game continuity/preferences; an approved Terms version/acceptance record if applicable; duplicate-reward prevention; support; rights requests; and eligible advertising/privacy management. Each purpose requires a separately determined ground: [BASIS_LOCAL_GAME], [BASIS_LEGAL_RECORD], [BASIS_REWARD_SECURITY], [BASIS_SUPPORT], [BASIS_RIGHTS_REQUEST], [BASIS_ADS_AND_DEVICE_STORAGE], [BASIS_CONSENT_RECORD]. Consent or legitimate interests have not been selected by default. The KVKK information notice is separate and is not consent.
+
+## 8. Recipients and international transfers
+Potential service chains include Google advertising/privacy services, email providers, user-opened web hosting and OS backup services. Actual contracting entities, controller/processor roles and countries must be completed in [RECIPIENT_ROLE_REGISTER] / [TRANSFER_COUNTRIES]. The KVKK Article 9 mechanism [KVKK_ART9_MECHANISM] and, where applicable, GDPR safeguards [GDPR_TRANSFER_MECHANISM] are not established. A UMP choice alone does not resolve these gaps. No promise is made that data remains exclusively in Türkiye/the EU.
+
+## 9. Retention, deletion and security
+Local files have no general automatic day-based deletion period. Reset Settings resets only the stated game preferences; it does not delete all progress, fuel, legacy age or Google/OS records. Clearing Android app data can lose progress; uninstall and cloud-backup deletion have separate effects. Support and rights-request periods are [SUPPORT_RETENTION] / [RIGHTS_REQUEST_RETENTION]; verified SDK/OS details are [PROVIDER_RETENTION_REGISTER]. Google's general retention examples are not one period for all our UMP/ad records. Absolute security or prevention of restoration from a surviving backup is not guaranteed.
+
+
+Ordinary support email correspondence is retained for 12 months after the relevant support issue is resolved and is then deleted. If a continuing dispute or a specific legal obligation requires longer retention, the reason and scope of that exception are documented separately. This period does not automatically apply to rights-request records or Google/other provider records.
+## 10. Your rights and contact
+Depending on applicable law, you may have rights to information/access, correction, erasure, objection, restriction, portability and withdrawal of consent where relevant. Your right to complain to the competent data protection authority is preserved. You may initially contact devzasoft@gmail.com; the formal method [FORMAL_REQUEST_CHANNEL] remains to be completed. Verification should be limited to what is needed to handle your request; we do not promise server-side deletion of local data we cannot remotely access. See the separate Rights and Contact Procedure.
+
+## 11. Changes
+Document version [APPROVED_RELEASE_VERSION] and effective date [OWNER_APPROVED_EFFECTIVE_DATE] will be set after publisher review. Material changes in data practices require updated disclosures and any necessary permissions. This draft has not replaced in-app documents or the live website.
