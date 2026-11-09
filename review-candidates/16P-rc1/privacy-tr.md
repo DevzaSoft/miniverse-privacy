@@ -2,12 +2,12 @@
 
 > SADECE İNCELEME ADAYI — Yayımlanmamıştır; yayıncı veya hukukçu onayı verilmiş değildir. İnceleme sürümü: **16P-rc1**, tarih: **2026-11-09**. Önerilen yürürlük kuralı: bütün açık alanlar tamamlanıp malikin ayrıca onayladığı yayın gününde veya açıkça seçtiği daha sonraki tarihte yürürlük; bugün yürürlükte değildir. Kesin tarih: [OWNER_APPROVED_EFFECTIVE_DATE].
 
-Veri sorumlusu/hizmet sağlayıcı: **Barışcan DEDEOĞLU**. Marka: **DEVZASOFT**. Bireysel geliştirici. İletişim: **devzasoft@gmail.com**. Uygulama: **MiniVerse Road Puzzle**, paket: **com.devzasoft.miniverseroadpuzzle**. Konut adresi bu adayda yayımlanmaz. Gerekli resmi başvuru/tebligat kanalının hukuka uygun, konut adresini ifşa etmeyen çözümü yayın öncesi incelenmelidir; e-posta tek başına her şartı karşılıyor sayılmaz.
+Veri sorumlusu/hizmet sağlayıcı: **Barışcan DEDEOĞLU** (gerçek kişi/bireysel geliştirici). Yayıncı adı ve marka: **DEVZASOFT**; bu ad tek başına ayrı bir şirket veya tüzel kişilik anlamına gelmez. İletişim: **devzasoft@gmail.com**. Uygulama: **MiniVerse Road Puzzle**, paket: **com.devzasoft.miniverseroadpuzzle**. Konut adresi bu adayda yayımlanmaz. Gerekli resmi başvuru/tebligat kanalının hukuka uygun, konut adresini ifşa etmeyen çözümü yayın öncesi incelenmelidir; e-posta tek başına her şartı karşılıyor sayılmaz.
 
 # MiniVerse Road Puzzle — Gizlilik Politikası
 
 ## 1. Biz kimiz?
-MiniVerse Road Puzzle, devzasoft yayıncı markasıyla sunulur. Veri sorumlusu/hizmet sağlayıcı gerçek kişi: Barışcan DEDEOĞLU; yerleşim ülkesi: [ESTABLISHMENT_COUNTRY]; tebligat/hizmet adresi: [NON_RESIDENTIAL_SERVICE_CHANNEL_LEGAL_REVIEW]. Destek: devzasoft@gmail.com. Resmi veri koruma başvuru kanalı: [FORMAL_REQUEST_CHANNEL]. Marka adı ayrı bir şirketin varlığını göstermez.
+MiniVerse Road Puzzle, yayıncı adı/markası **DEVZASOFT** altında sunulur. Veri sorumlusu/hizmet sağlayıcı gerçek kişi: Barışcan DEDEOĞLU; yerleşim ülkesi: **Türkiye**; tebligat/hizmet adresi: [NON_RESIDENTIAL_SERVICE_CHANNEL_LEGAL_REVIEW]. Destek: devzasoft@gmail.com. Resmi veri koruma başvuru kanalı: [FORMAL_REQUEST_CHANNEL]. Marka adı ayrı bir şirketin varlığını göstermez.
 
 ## 2. Hesap ve cihazdaki oyun verileri
 Oyunda hesap açma, isim/e-posta/parola veya doğum tarihi girme alanı yoktur. İlerleme, yıldızlar, en iyi hamle, şehirler, başarımlar, yakıt ve yenilenme zamanları, ses/parlaklık/öğretici tercihleri, dil ve ilk açılış durumu cihazdaki uygulama dosyalarında tutulur. Ödül tekrarını önlemek için işlem ve oyun oturumu makbuzları ile yerel teknik kayıtlar bulunur. Bu oyun verilerini geliştirici sunucusuna otomatik yükleyen bir yol tespit edilmemiştir. Android yedekleme ve cihaz aktarımı kopyalar oluşturabilir; yalnız cihazda kalacakları garanti edilmez.
