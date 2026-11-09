@@ -66,6 +66,8 @@ Key unresolved categories include establishment/service address or lawful servic
 **Follow-up date:** 9 November 2026
 
 - Added official KVKK Article 10 notice guidance and the Authority's public announcement on keeping the information notice separate from explicit consent.
+- Recorded the owner's confirmation that the publisher's establishment country is Türkiye; exact registered legal name and official business/contact address remain unconfirmed.
+- Added the Authority's 18 February 2026 Board Principle Decision 2026/347 announcement requiring separate information-notice and explicit-consent texts and controller-specific, clear disclosures.
 - Added the current Article 9 international-transfer framework reference, including the five-business-day notification point where a standard contract is used.
 - Clarified that the 30-day KVKK application response period is not a retention period.
 - Updated the TR/EN KVKK Markdown candidates and regenerated their HTML mirrors.
