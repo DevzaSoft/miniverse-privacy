@@ -2,7 +2,7 @@
 
 > SADECE İNCELEME ADAYI — Yayımlanmamıştır; yayıncı veya hukukçu onayı verilmiş değildir. İnceleme sürümü: **16P-rc1**, tarih: **2026-11-09**. Önerilen yürürlük kuralı: bütün açık alanlar tamamlanıp malikin ayrıca onayladığı yayın gününde veya açıkça seçtiği daha sonraki tarihte yürürlük; bugün yürürlükte değildir. Kesin tarih: [OWNER_APPROVED_EFFECTIVE_DATE].
 
-Veri sorumlusu/hizmet sağlayıcı: **Barışcan DEDEOĞLU**. Marka: **DEVZASOFT**. Bireysel geliştirici. İletişim: **devzasoft@gmail.com**. Uygulama: **MiniVerse Road Puzzle**, paket: **com.devzasoft.miniverseroadpuzzle**. Konut adresi bu adayda yayımlanmaz. Gerekli resmi başvuru/tebligat kanalının hukuka uygun, konut adresini ifşa etmeyen çözümü yayın öncesi incelenmelidir; e-posta tek başına her şartı karşılıyor sayılmaz.
+Yayıncı adı ve kullanıcıya gösterilen iletişim kimliği: **DEVZASOFT**. Gizlilik ve veri hakları talepleri için e-posta: **devzasoft@gmail.com**. Veri sorumlusunun hukuki kimliği ve gerekli resmî başvuru usulü yayın öncesi doğrulanacaktır. Uygulama: **MiniVerse Road Puzzle**, paket: **com.devzasoft.miniverseroadpuzzle**. Konut adresi bu adayda yayımlanmaz. Gerekli resmi başvuru/tebligat kanalının hukuka uygun, konut adresini ifşa etmeyen çözümü yayın öncesi incelenmelidir; e-posta tek başına her şartı karşılıyor sayılmaz.
 
 # Veri Saklama ve Silme Politikası
 
@@ -21,7 +21,7 @@ UMP reset bir Development test aracıdır; kullanıcının bütün verisini/sunu
 Olağan destek e-posta yazışmaları ilgili konu çözüldükten sonra 12 ay saklanır. Devam eden uyuşmazlık veya belirli bir yasal yükümlülük nedeniyle daha uzun süre gerekirse gerekçe ve kapsam ayrıca belgelenir. Hak başvuru kayıtları [RIGHTS_REQUEST_RETENTION], sağlayıcı kayıtları [PROVIDER_RETENTION_REGISTER], yerel bozuk/yedek/makbuzların hedef süre ve imha yöntemi [LOCAL_RETENTION_SCHEDULE] olarak ayrıca tamamlanmalıdır. Gerçekte olmayan otomatik silme planı yayımlanmayacaktır.
 
 ## Silme başvurusu
-devzasoft@gmail.com ilk iletişim; resmi kanal [FORMAL_REQUEST_CHANNEL]. Talebin kapsamı ve gerçekten erişilen kopyalar belirlenir. Gerekli meşru saklama istisnası varsa somut dayanağı ve sınırı açıklanmalıdır; sınırsız saklama varsayılmaz. Sağlayıcıya yönlendirme, yerel adımlar ve tamamlanan işlemler ayrı bildirilir. Uzaktan erişilmeyen yerel kaydın sunucudan silindiği söylenmez. Kanuni yanıt süreleri, veri saklama süresi değildir.
+Gizlilik/veri hakları talepleri için e-posta: **devzasoft@gmail.com**. Bu iletişim kanalıdır; kanunen gerekli başvuru ve tebligat şartlarını otomatik olarak karşıladığı iddia edilmez. Talebin kapsamı ve gerçekten erişilen kopyalar belirlenir. Gerekli meşru saklama istisnası varsa somut dayanağı ve sınırı açıklanmalıdır; sınırsız saklama varsayılmaz. Sağlayıcıya yönlendirme, yerel adımlar ve tamamlanan işlemler ayrı bildirilir. Uzaktan erişilmeyen yerel kaydın sunucudan silindiği söylenmez. Kanuni yanıt süreleri, veri saklama süresi değildir.
 
 # Gizlilik Hakları ve İletişim Prosedürü
 
