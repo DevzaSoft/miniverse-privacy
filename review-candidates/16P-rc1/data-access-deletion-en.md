@@ -7,7 +7,6 @@ Controller/service provider: **Barışcan DEDEOĞLU**. Brand: **DEVZASOFT**. Ind
 # Data Retention and Deletion Policy
 
 ## Existing technical behavior
-## Existing technical behavior
 The current active app flow does not read or write an age/date-of-birth file; age classification and age-category storage have been removed. We do not guarantee that legacy files possibly retained in device backups or external copies from an earlier app version have been erased from every device. The current app does not use that legacy age data.
 No general automatic day-based deletion period has been identified for local game files. Progress, energy, achievements, preferences, first-launch state and reward receipts serve different purposes. Some stores may create temporary, backup or corrupt-record copies. Event/callback technical traces may rotate at size limits or stop accepting new entries; these technical limits are not day/month retention promises.
 
