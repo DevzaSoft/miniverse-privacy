@@ -28,6 +28,10 @@ Where applicable, rights include learning whether data is processed, obtaining i
 
 Requests will use [FORMAL_REQUEST_CHANNEL] under the applicable procedure. devzasoft@gmail.com is an initial contact, not a claim that every formal requirement is satisfied. KVKK requests should be resolved promptly and no later than 30 days, subject to applicable procedure/fee rules. Rights to complain to the authority and applicable deadlines remain intact. Formal fields and proportionate secure verification must be finalized before publication; identity photographs are not requested by default.
 
+## 2026/347 Principle Decision — separation of notice and explicit consent
+
+The Turkish Personal Data Protection Board's Principle Decision dated 18 February 2026, No. 2026/347, emphasizes that information notices and explicit-consent texts must be prepared separately. A notice must clearly and specifically describe the controller's own actual processing activities; another app's or provider's notice must not simply be copied. The controller should not request an acknowledgement/consent that the notice has been read or make such acknowledgement a condition of service. In MiniVerse onboarding, Privacy/KVKK documents should be informational links; Terms acceptance remains a separate user action, and UMP choices remain separate in their own legal/technical context.
+
 ## Official legal references and implementation notes
 
 - KVKK Article 10 requires notice of the controller's identity, processing purposes, recipient groups and transfer purposes, collection method/legal grounds, and the data subject's rights. The duty to inform is separate from obtaining consent.
