@@ -107,3 +107,14 @@ This update records the publisher name distinction only. It does not establish a
 - All 16 files contain the DEVZASOFT publisher name and designated email; all eight HTML files retain review-only banners and `noindex,nofollow`.
 - Wording expressly avoids representing DEVZASOFT as a separate incorporated company or claiming that the email is a physical address or automatically meets every statutory service/formal application requirement.
 - The legally required controller/provider identity and any formal service details remain unresolved publication gates. This cannot be solved by substituting a brand name for a legal person where disclosure of the legal identity is required.
+## KVKK contact email and formal application procedure — 9 November 2026
+
+- Replaced vague formal-channel placeholders in the TR/EN Privacy Policy, KVKK notice and Rights Procedure with the verified statutory application methods in KVKK Article 13 and Article 5 of the Application Communiqué.
+- The designated email **devzasoft@gmail.com** remains the initial contact/request email.
+- Clarified that an ordinary email is a formal application only where the statutory email condition is met (previously notified by the data subject and recorded in the controller's system); simply publishing the controller's Gmail address does not satisfy that condition for every user.
+- Added the required particulars of an application, including the **applicant's** address for notification; clarified that this is distinct from the publisher's contact email.
+- Kept identity-document photographs out of the default request process and retained necessity/proportionality for verification.
+- Regenerated six affected HTML mirrors from their Markdown sources.
+- Official reference: [KVKK Communiqué on application procedures (PDF)](https://www.kvkk.gov.tr/SharedFolderServer/CMSFiles/bf638c8f-7455-49a7-8118-3eb2858a16b5.pdf).
+
+The controller's legal identity, any formal service address/KEP channel and any purpose-built request workflow remain unresolved. No claim is made that the email alone meets all formal requirements.
