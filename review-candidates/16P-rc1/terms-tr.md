@@ -9,7 +9,6 @@ Veri sorumlusu/hizmet sağlayıcı: **Barışcan DEDEOĞLU**. Marka: **DEVZASOFT
 ## 1. Sağlayıcı ve bu metnin durumu
 Sağlayıcı Barışcan DEDEOĞLU, DEVZASOFT markası; [ESTABLISHMENT_COUNTRY], [NON_RESIDENTIAL_SERVICE_CHANNEL_LEGAL_REVIEW]. Destek devzasoft@gmail.com. Bu yayın adayı henüz onaylanmış sözleşme değildir. Nihai sürüm [APPROVED_RELEASE_VERSION], yürürlük [OWNER_APPROVED_EFFECTIVE_DATE], URL [TERMS_URL_TR] tamamlanacaktır. Uygulamadaki legal-release şu anda onaysız/boştur; bu taslak onay kaydı oluşturmaz.
 
-## 2. Kullanıcılar
 ## 2. Hedef kitle ve kullanıcılar
 MiniVerse Road Puzzle 16 yaş ve üzerindeki kullanıcılar için tasarlanmıştır; çocuklar hedef kitle değildir. Uygulama yaş veya doğum tarihi istemez ve kullanıcının 16 yaşında veya daha büyük olduğunu doğrulamaz. Hedef kitle açıklaması, 16 yaş altındaki kişilerin teknik olarak engellendiği anlamına gelmez. 16–17 yaşındaki kullanıcılar bazı ülkelerde reşit olmayabilir veya sözleşme/kişisel veri işlemleri bakımından ek kurallara tabi olabilir. Bu Şartlar, uygulanabilir zorunlu tüketici, çocuk/genç kullanıcı ve veri koruma haklarını ortadan kaldırmaz. Gerekli hukuki temsil veya ehliyet kuralları ilgili ülke hukukuna göre değerlendirilir; uygulama içindeki bir onay kutusu tek başına yaş, kimlik veya temsil yetkisi doğrulaması değildir.
 
