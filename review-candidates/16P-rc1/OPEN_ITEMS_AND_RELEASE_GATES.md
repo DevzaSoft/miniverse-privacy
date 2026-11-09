@@ -113,3 +113,33 @@ Official sources:
 - [KVKK — Article 10 notice obligation](https://www.kvkk.gov.tr/Icerik/2033/Aydinlatma-Yukumlulugu-)
 
 This clarification is not a legal opinion and does not establish that the published Gmail address alone satisfies every formal statutory application or service requirement.
+
+## J. On-device-first data model and Google Play Data safety release decision — 9 November 2026
+
+**Owner clarification:** DEVZASOFT does not operate a player-account service, collect players' game saves to a developer backend or maintain a server-side database of player progress. Progress, stars, fuel and preferences are stored locally by the app. This is not the same as a verified statement that no data is transmitted by the final Android artifact.
+
+### Data-flow matrix — do not convert assumptions into Play Console declarations
+
+| Data flow | Current evidence/owner description | Owner/developer backend? | Remaining verification |
+|---|---|---|---|
+| Progress, stars, level completion, fuel, game preferences | Local application files; no developer-server upload identified in reviewed source | No developer backend identified | Verify release network behavior and Android backup/restore configuration |
+| Android/Google OS backup and restore | Off-device copies may be created depending on OS/user configuration | Not a DEVZASOFT backend | Inspect backup flags, data-extraction rules and backup transport; avoid asserting that saves never leave the phone |
+| Google AdMob advertising SDK | Present in project, but Production ad initialization/ad requests currently disabled | Google service when enabled, not DEVZASOFT's own server | Verify actual Release dependency, SDK initialization, outbound traffic, consent, identifiers, regional behavior, recipients and Play Data safety categories |
+| Google UMP privacy SDK | Present in project, Production initialization disabled in reviewed configuration | Third-party component | Verify whether any SDK/native component transmits independently in final artifact; do not equate no ad request with no network activity |
+| User-initiated support or rights email | User chooses to send an email to devzasoft@gmail.com | Accessible to publisher through email provider | Describe as voluntary support communication; check applicable retention and disclosure |
+| External legal/privacy website | Opens in browser and may contact hosting/network providers | Not game-save upload to DEVZASOFT | Verify site cookies/analytics/network behavior separately |
+| Google Play platform telemetry | May be processed by Google as platform operator | Not automatically developer-controlled | Distinguish Play platform processing from SDK transmissions embedded in the app and from any Play Console reports accessible to publisher |
+
+### Release-specific verification steps
+
+1. Freeze the exact APK/AAB build identifier and release dependency list; do not use Development APK results as evidence for Release.
+2. Inspect the merged Android manifest for permissions, AD_ID, INTERNET, backup and data-extraction rules.
+3. Review SDK initialization and actual outbound traffic on first launch, gameplay, Settings, legal-link opening, offline/online transitions and app restart, without collecting unnecessary user identifiers in the test log.
+4. Check whether SDKs or OS services send data even with ad requests disabled; document observed domains, categories and purposes, noting limitations of TLS inspection.
+5. Compare findings against current Google Play Data safety definitions, third-party SDK disclosure and Google's current SDK guidance. Record any required declarations for the **actual** released artifact.
+6. If ads are enabled later, repeat the entire assessment including UMP consent lifecycle, age-related restrictions and regional policy settings.
+7. Publish revised legal text and complete Play Console declarations only after the actual behavior is evidenced and the owner approves.
+
+**Do not preselect** “No data collected” or “No data shared” solely because DEVZASOFT has no backend. Do not assert that Google is solely responsible for every SDK data flow. The actual app configuration, SDK behavior and applicable policy determine the publisher's declarations.
+
+**Publication remains blocked** pending legal controller-identity review, final SDK/data-flow evidence, unresolved legal placeholders and owner approval. No live page, Unity file, advertising setting or Play Console form was changed during this documentation update.
