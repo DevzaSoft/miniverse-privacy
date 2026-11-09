@@ -2,7 +2,7 @@
 
 > REVIEW CANDIDATE ONLY — Not published; neither owner publication approval nor professional legal approval is recorded. Review version: **16P-rc1**, reviewed **2026-11-09**. Proposed effective-date rule: the separately owner-approved publication date, or a later date explicitly chosen by the owner, after all open issues are resolved; not effective today. Exact date: [OWNER_APPROVED_EFFECTIVE_DATE].
 
-Controller/service provider: **Barışcan DEDEOĞLU**. Brand: **DEVZASOFT**. Individual developer. Contact: **devzasoft@gmail.com**. App: **MiniVerse Road Puzzle**, package: **com.devzasoft.miniverseroadpuzzle**. No residential address is published in this candidate. A lawful formal request/service channel without disclosing a residential address must be reviewed before publication; email alone is not assumed to satisfy every requirement.
+Publisher name and user-facing contact identity: **DEVZASOFT**. Email for privacy and data-rights requests: **devzasoft@gmail.com**. The controller's legal identity and required formal request procedure must be verified before publication. App: **MiniVerse Road Puzzle**, package: **com.devzasoft.miniverseroadpuzzle**. No residential address is published in this candidate. A lawful formal request/service channel without disclosing a residential address must be reviewed before publication; email alone is not assumed to satisfy every requirement.
 
 # Data Retention and Deletion Policy
 
@@ -21,7 +21,7 @@ UMP reset is a Development testing tool, not deletion of all user/server data; i
 Ordinary support email correspondence is retained for 12 months after the issue is resolved. If a continuing dispute or a specific legal obligation requires longer retention, the reason and scope are documented separately. Rights-request records [RIGHTS_REQUEST_RETENTION], provider records [PROVIDER_RETENTION_REGISTER] and local corrupt/backup/receipt retention periods and deletion methods [LOCAL_RETENTION_SCHEDULE] must be specified separately. No nonexistent automatic deletion schedule will be published.
 
 ## Deletion requests
-Initial contact devzasoft@gmail.com; formal channel [FORMAL_REQUEST_CHANNEL]. Identify scope and copies actually accessible. Any lawful retention exception needs a specific basis and limit; indefinite retention is not presumed. Report provider referrals, local steps and completed actions separately. Do not claim server deletion of local data not remotely accessible. Statutory response periods are not data-retention periods.
+Privacy and data-rights request email: **devzasoft@gmail.com**. This is an email contact channel; it is not claimed to automatically satisfy every statutory request or formal service requirement. Identify scope and copies actually accessible. Any lawful retention exception needs a specific basis and limit; indefinite retention is not presumed. Report provider referrals, local steps and completed actions separately. Do not claim server deletion of local data not remotely accessible. Statutory response periods are not data-retention periods.
 
 # Privacy Rights and Contact Procedure
 
