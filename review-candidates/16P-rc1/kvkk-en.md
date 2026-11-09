@@ -4,7 +4,9 @@
 
 Publisher name and user-facing contact identity: **DEVZASOFT**. Designated email for personal-data requests: **devzasoft@gmail.com**. App: **MiniVerse Road Puzzle**, package: **com.devzasoft.miniverseroadpuzzle**. DEVZASOFT is not a separate company or legal entity. The controller identity and formal service details required by KVKK must be verified against the actual legal status before publication.
 
-# MiniVerse Road Puzzle — KVKK Information Notice (English companion)
+# MiniVerse Road Puzzle — KVKK Information Notice
+
+**Data-flow summary:** Game progress and preferences are stored on the device by the app; DEVZASOFT does not operate a developer-hosted player account or server collecting those records. Operating-system backups, user-initiated support emails, external legal pages and Google AdMob/UMP services that may be enabled in the future are separate data flows. Third-party processing is not automatically data stored on DEVZASOFT's own server, but applicable notice and legal-assessment responsibilities remain. Production advertising is currently disabled. (English companion)
 
 This notice concerns Turkish Law No. 6698. It is separate from the Privacy Policy, Terms and consent. It is not ready for final publication until identity and purpose-specific grounds are completed. The Turkish companion should be reviewed for the applicable notice requirements.
 
