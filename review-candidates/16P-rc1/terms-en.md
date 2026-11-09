@@ -9,7 +9,6 @@ Controller/service provider: **Barışcan DEDEOĞLU**. Brand: **DEVZASOFT**. Ind
 ## 1. Provider and document status
 Provider Barışcan DEDEOĞLU, using devzasoft; [ESTABLISHMENT_COUNTRY], [NON_RESIDENTIAL_SERVICE_CHANNEL_LEGAL_REVIEW]. Support devzasoft@gmail.com. This publication candidate is not an approved contract. Final version [APPROVED_RELEASE_VERSION], effective date [OWNER_APPROVED_EFFECTIVE_DATE] and URL [TERMS_URL_EN] remain to be completed. The in-app legal-release configuration is unapproved/empty; no acceptance of this draft is recorded.
 
-## 2. Users
 ## 2. Intended audience and users
 MiniVerse Road Puzzle is designed for users aged 16 and older; children are not the intended audience. The app does not ask for age or date of birth and does not verify that a user is at least 16. The intended-audience statement does not technically block access by someone under 16. Users aged 16–17 may be minors in some countries or subject to additional rules concerning contractual capacity and personal-data processing. These Terms do not waive mandatory consumer, younger-user or data-protection rights. Any required legal representation or capacity rules depend on the law applicable in the user's jurisdiction; an in-app checkbox alone does not verify age, identity or authority to represent another person.
 
