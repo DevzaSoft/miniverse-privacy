@@ -28,4 +28,12 @@ Where applicable, rights include learning whether data is processed, obtaining i
 
 Requests will use [FORMAL_REQUEST_CHANNEL] under the applicable procedure. devzasoft@gmail.com is an initial contact, not a claim that every formal requirement is satisfied. KVKK requests should be resolved promptly and no later than 30 days, subject to applicable procedure/fee rules. Rights to complain to the authority and applicable deadlines remain intact. Formal fields and proportionate secure verification must be finalized before publication; identity photographs are not requested by default.
 
+## Official legal references and implementation notes
+
+- KVKK Article 10 requires notice of the controller's identity, processing purposes, recipient groups and transfer purposes, collection method/legal grounds, and the data subject's rights. The duty to inform is separate from obtaining consent.
+- The Authority's public announcement warns against combining a privacy notice with explicit consent or conditioning service on a mandatory checkbox confirming that the notice was read. MiniVerse should present Privacy/KVKK links as information in onboarding; only Terms acceptance should be a separate affirmative user action. UMP privacy choices remain separate as well.
+- The Article 9 amendments effective 1 June 2024 require an actual transfer mechanism to be identified based on the real recipients, roles and transfer circumstances. If a standard contract is used, it must be notified to the Authority within five business days after signature. This notice does not claim that MiniVerse has such a contract.
+
+Official sources: [KVKK Article 10 notice duty](https://www.kvkk.gov.tr/Icerik/2033/Aydinlatma-Yukumlulugu-), [Authority public announcement on notice](https://www.kvkk.gov.tr/Icerik/6765/AYDINLATMA-YUKUMLULUGUNUN-YERINE-GETIRILMESI-HAKKINDA-KAMUOYU-DUYURUSU), [Article 9 international transfers](https://www.kvkk.gov.tr/Icerik/2053/Yurtdisina-Aktarim).
+
 [KVKK notice requirements](https://www.kvkk.gov.tr/Icerik/2033/Aydinlatma-Yukumlulugu-); [request deadlines](https://www.kvkk.gov.tr/Icerik/5358/Kamuoyu-Duyurusu). Effective date/version [OWNER_APPROVED_EFFECTIVE_DATE] / [APPROVED_RELEASE_VERSION].
