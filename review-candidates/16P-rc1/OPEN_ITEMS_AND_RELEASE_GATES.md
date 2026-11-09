@@ -8,7 +8,7 @@ This register groups remaining placeholders so they can be resolved deliberately
 
 | Input | Current state | Required action |
 |---|---|---|
-| Establishment country | Not established in the reviewed repository | Owner confirms the country of establishment/business for legal disclosures. |
+| Establishment country | **Confirmed by owner: Türkiye (9 November 2026)** | Country-level fact is confirmed. Exact registered legal name, business/notification address and any applicable trade-name details still require confirmation from official registration records. |
 | Formal non-residential service/request address | Not established | Identify a lawful formal notice/request channel that does not expose a private residential address, if legally permissible. Obtain Turkish counsel review. |
 | Formal privacy-request method | Not established | Confirm required submission fields, recipient, delivery method and identity/authority verification route. |
 | Representative / not applicable | Not established | Confirm whether a representative is legally required or accurately mark not applicable after review. |
