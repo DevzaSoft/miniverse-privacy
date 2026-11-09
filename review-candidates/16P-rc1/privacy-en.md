@@ -2,12 +2,12 @@
 
 > REVIEW CANDIDATE ONLY — Not published; neither owner publication approval nor professional legal approval is recorded. Review version: **16P-rc1**, reviewed **2026-11-09**. Proposed effective-date rule: the separately owner-approved publication date, or a later date explicitly chosen by the owner, after all open issues are resolved; not effective today. Exact date: [OWNER_APPROVED_EFFECTIVE_DATE].
 
-Controller/service provider: **Barışcan DEDEOĞLU**. Brand: **DEVZASOFT**. Individual developer. Contact: **devzasoft@gmail.com**. App: **MiniVerse Road Puzzle**, package: **com.devzasoft.miniverseroadpuzzle**. No residential address is published in this candidate. A lawful formal request/service channel without disclosing a residential address must be reviewed before publication; email alone is not assumed to satisfy every requirement.
+Controller/service provider: **Barışcan DEDEOĞLU** (individual/natural person). Publisher name and brand: **DEVZASOFT**; this name alone does not represent a separate company or legal entity. Contact: **devzasoft@gmail.com**. App: **MiniVerse Road Puzzle**, package: **com.devzasoft.miniverseroadpuzzle**. No residential address is published in this candidate. A lawful formal request/service channel without disclosing a residential address must be reviewed before publication; email alone is not assumed to satisfy every requirement.
 
 # MiniVerse Road Puzzle — Privacy Policy
 
 ## 1. Who we are
-MiniVerse Road Puzzle is offered under the publisher brand devzasoft. The individual controller/service provider is Barışcan DEDEOĞLU, established in [ESTABLISHMENT_COUNTRY], with service address [NON_RESIDENTIAL_SERVICE_CHANNEL_LEGAL_REVIEW]. Support: devzasoft@gmail.com. Formal privacy request channel: [FORMAL_REQUEST_CHANNEL]. The brand does not establish a separate incorporated company.
+MiniVerse Road Puzzle is offered under the publisher name/brand **DEVZASOFT**. The individual controller/service provider is Barışcan DEDEOĞLU, established in **Türkiye**,  with service address [NON_RESIDENTIAL_SERVICE_CHANNEL_LEGAL_REVIEW]. Support: devzasoft@gmail.com. Formal privacy request channel: [FORMAL_REQUEST_CHANNEL]. The brand does not establish a separate incorporated company.
 
 ## 2. Accounts and game data on your device
 The game has no account registration, name/email/password or date-of-birth entry. Progress, stars, best moves, cities, achievements, fuel and renewal times, audio/brightness/tutorial preferences, language and first-launch state are stored in application files on the device. Reward transaction/run receipts and local technical records help prevent duplicate rewards. No automatic upload of these game records to a developer server was identified. Android backup and device transfer may create copies; exclusive on-device storage is not guaranteed.
