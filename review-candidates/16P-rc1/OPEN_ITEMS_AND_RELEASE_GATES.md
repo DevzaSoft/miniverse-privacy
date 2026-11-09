@@ -8,7 +8,10 @@ This register groups remaining placeholders so they can be resolved deliberately
 
 | Input | Current state | Required action |
 |---|---|---|
-| Establishment country | **Confirmed by owner: Türkiye (9 November 2026)** | Country-level fact is confirmed. Exact registered legal name, business/notification address and any applicable trade-name details still require confirmation from official registration records. |
+| Establishment country | **Confirmed by owner: Türkiye (9 November 2026)** | Country-level fact is confirmed. |
+| Publisher name | **Confirmed: DEVZASOFT is the publisher/display name, not a separate legal entity (9 November 2026)** | Documents now distinguish the publisher brand from the individual/natural-person provider/controller. Do not describe DEVZASOFT as an incorporated company. |
+| Controller/provider identity evidence | Drafts currently identify the individual provider as Barışcan DEDEOĞLU | Confirm the exact spelling and legal identity against the owner's official records before publication. |
+| Official business/notification address and formal privacy-request channel | Not established | Must be confirmed and legally reviewed; do not invent an address or imply support email automatically meets formal service requirements. |
 | Formal non-residential service/request address | Not established | Identify a lawful formal notice/request channel that does not expose a private residential address, if legally permissible. Obtain Turkish counsel review. |
 | Formal privacy-request method | Not established | Confirm required submission fields, recipient, delivery method and identity/authority verification route. |
 | Representative / not applicable | Not established | Confirm whether a representative is legally required or accurately mark not applicable after review. |
