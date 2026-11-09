@@ -97,3 +97,13 @@ This is an editorial/regulatory-reference update, not legal approval or confirma
 - Remaining placeholders are still present for purpose-specific legal grounds, recipient roles, transfer countries/mechanisms, retention schedules, licence/consumer/dispute terms, version, effective date and canonical URLs.
 
 This update records the publisher name distinction only. It does not establish a trade registry entry, business entity, tax status, formal service address or legal approval.
+
+## Publisher identity and contact-email update — 9 November 2026
+
+- Owner specified **DEVZASOFT** as the publisher identity/name to display in the documents.
+- Owner designated **devzasoft@gmail.com** as the support and privacy/data-rights contact/request email.
+- Updated all eight TR/EN Markdown sources and all eight HTML mirrors.
+- Removed the previously inserted personal-name identifier from the eight candidate documents.
+- All 16 files contain the DEVZASOFT publisher name and designated email; all eight HTML files retain review-only banners and `noindex,nofollow`.
+- Wording expressly avoids representing DEVZASOFT as a separate incorporated company or claiming that the email is a physical address or automatically meets every statutory service/formal application requirement.
+- The legally required controller/provider identity and any formal service details remain unresolved publication gates. This cannot be solved by substituting a brand name for a legal person where disclosure of the legal identity is required.
