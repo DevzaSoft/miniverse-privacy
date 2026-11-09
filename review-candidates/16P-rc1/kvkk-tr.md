@@ -2,14 +2,14 @@
 
 > SADECE İNCELEME ADAYI — Yayımlanmamıştır; yayıncı veya hukukçu onayı verilmiş değildir. İnceleme sürümü: **16P-rc1**, tarih: **2026-11-09**. Önerilen yürürlük kuralı: bütün açık alanlar tamamlanıp malikin ayrıca onayladığı yayın gününde veya açıkça seçtiği daha sonraki tarihte yürürlük; bugün yürürlükte değildir. Kesin tarih: [OWNER_APPROVED_EFFECTIVE_DATE].
 
-Veri sorumlusu/hizmet sağlayıcı: **Barışcan DEDEOĞLU** (gerçek kişi/bireysel geliştirici). Yayıncı adı ve marka: **DEVZASOFT**; bu ad ayrı bir şirket veya tüzel kişilik değildir. İletişim: **devzasoft@gmail.com**. Uygulama: **MiniVerse Road Puzzle**, paket: **com.devzasoft.miniverseroadpuzzle**. Konut adresi bu adayda yayımlanmaz. Gerekli resmi başvuru/tebligat kanalının hukuka uygun, konut adresini ifşa etmeyen çözümü yayın öncesi incelenmelidir; e-posta tek başına her şartı karşılıyor sayılmaz.
+Yayıncı adı ve kullanıcıya gösterilen iletişim kimliği: **DEVZASOFT**. Kişisel veri talepleri için belirlenen e-posta: **devzasoft@gmail.com**. Uygulama: **MiniVerse Road Puzzle**, paket: **com.devzasoft.miniverseroadpuzzle**. DEVZASOFT ayrı bir şirket veya tüzel kişilik değildir. KVKK kapsamında açıklanması gereken veri sorumlusu kimliği ve resmî tebligat bilgileri gerçek hukuki statüye göre yayın öncesinde doğrulanmalıdır.
 
 # MiniVerse Road Puzzle — KVKK Aydınlatma Metni
 
 Bu metin 6698 sayılı Kanun kapsamındaki bilgilendirme için hazırlanmıştır. Gizlilik politikası, Kullanım Şartları veya açık rıza beyanı değildir. Aşağıdaki hukuki sebep/kimlik alanları tamamlanmadan nihai aydınlatma olarak yayımlanmamalıdır.
 
 ## Veri sorumlusu
-Veri sorumlusu gerçek kişi Barışcan DEDEOĞLU, yayıncı adı/markası DEVZASOFT; yerleşim ülkesi Türkiye,  [NON_RESIDENTIAL_SERVICE_CHANNEL_LEGAL_REVIEW]. Destek: devzasoft@gmail.com. Resmi başvuru: [FORMAL_REQUEST_CHANNEL]. Varsa temsilci [REPRESENTATIVE_OR_NOT_APPLICABLE].
+Yayıncı adı: DEVZASOFT. Yayıncının bildirdiği ülke: Türkiye. Kişisel veri talepleri için e-posta: devzasoft@gmail.com. Bu bilgiler yayıncı markasını ve iletişim kanalını tanımlar; KVKK'da veri sorumlusunun hukuki kimliğinin açıklanması yükümlülüğünü ortadan kaldırmaz. Veri sorumlusunun kimliği, varsa temsilci ve resmî adres yayın öncesinde doğrulanacaktır.
 
 ## Toplama yöntemi, veri ve amaç
 Güncel uygulama akışında yaş veya doğum tarihi istenmez; yaş sınıflandırması yapılmaz ve yaş kategorisi kaydedilmez. Önceki sürümlerdeki yaş/DOB arayüzü ve aktif yaş dosyası okuma-yazma akışı kaldırılmıştır. Önceki sürümden cihaz yedeklerinde veya uygulama dışı kopyalarda kalmış olabilecek verilerin tüm cihazlardan silindiği iddia edilmez; güncel uygulama bu eski yaş verilerini aktif akışta kullanmaz.
