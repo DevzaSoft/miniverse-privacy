@@ -7,7 +7,6 @@ Veri sorumlusu/hizmet sağlayıcı: **Barışcan DEDEOĞLU**. Marka: **DEVZASOFT
 # Veri Saklama ve Silme Politikası
 
 ## Teknik olarak mevcut olanlar
-## Teknik olarak mevcut olanlar
 Güncel aktif uygulama akışında yaş veya doğum tarihi dosyası okunmaz ya da yazılmaz; yaş sınıflandırması ve yaş kategorisi saklama sistemi kaldırılmıştır. Önceki sürümden cihaz yedeğinde veya uygulama dışı kopyada kalmış olabilecek eski dosyaların her cihazdan silindiği garanti edilmez. Güncel uygulama bu eski yaş verisini kullanmaz.
 Yerel oyun dosyaları için otomatik gün bazlı genel silme süresi tespit edilmemiştir. İlerleme, enerji, başarımlar, tercihler, ilk açılış ve ödül makbuzları farklı amaçlarla tutulur. Bazı depolar geçici, yedek veya bozuk kayıt kopyaları oluşturabilir. Event/callback teknik izleri boyut sınırlarıyla döndürülebilir veya yeni kayıt eklemeyi durdurabilir; bu teknik sınırlar gün/ay cinsinden saklama taahhüdü değildir.
 
