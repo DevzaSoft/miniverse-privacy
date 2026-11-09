@@ -2,14 +2,14 @@
 
 > REVIEW CANDIDATE ONLY — Not published; neither owner publication approval nor professional legal approval is recorded. Review version: **16P-rc1**, reviewed **2026-11-09**. Proposed effective-date rule: the separately owner-approved publication date, or a later date explicitly chosen by the owner, after all open issues are resolved; not effective today. Exact date: [OWNER_APPROVED_EFFECTIVE_DATE].
 
-Controller/service provider: **Barışcan DEDEOĞLU** (individual/natural person). Publisher name and brand: **DEVZASOFT**; this name is not a separate company or legal entity. Contact: **devzasoft@gmail.com**. App: **MiniVerse Road Puzzle**, package: **com.devzasoft.miniverseroadpuzzle**. No residential address is published in this candidate. A lawful formal request/service channel without disclosing a residential address must be reviewed before publication; email alone is not assumed to satisfy every requirement.
+Publisher name and user-facing contact identity: **DEVZASOFT**. Designated email for personal-data requests: **devzasoft@gmail.com**. App: **MiniVerse Road Puzzle**, package: **com.devzasoft.miniverseroadpuzzle**. DEVZASOFT is not a separate company or legal entity. The controller identity and formal service details required by KVKK must be verified against the actual legal status before publication.
 
 # MiniVerse Road Puzzle — KVKK Information Notice (English companion)
 
 This notice concerns Turkish Law No. 6698. It is separate from the Privacy Policy, Terms and consent. It is not ready for final publication until identity and purpose-specific grounds are completed. The Turkish companion should be reviewed for the applicable notice requirements.
 
 ## Controller
-Individual data controller Barışcan DEDEOĞLU, using the publisher name/brand DEVZASOFT; country of establishment: Türkiye,  [NON_RESIDENTIAL_SERVICE_CHANNEL_LEGAL_REVIEW]. Support devzasoft@gmail.com. Formal channel [FORMAL_REQUEST_CHANNEL]. Representative, if applicable: [REPRESENTATIVE_OR_NOT_APPLICABLE].
+Publisher name: DEVZASOFT. Country stated by the publisher: Türkiye. Personal-data contact email: devzasoft@gmail.com. These details identify the publisher brand and contact channel; they do not remove KVKK's requirement to disclose the controller's legal identity and applicable formal service details. Those details must be verified before publication.
 
 ## Methods, data and purposes
 The current app flow does not request age or date of birth, perform age classification or store an age category. The former age/DOB interface and active age-file read/write flow have been removed. We do not claim that possible copies in device backups or external storage from an earlier app version have been erased from every device; the current app does not use such legacy age data in its active flow.
