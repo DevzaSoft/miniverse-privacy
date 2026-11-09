@@ -53,3 +53,7 @@ Do not replace these placeholders with guesses. Qualified Turkish legal review a
 ## Publication boundary
 
 Only this review-candidate folder and internal review notes were updated on branch `legal-site-review`. Root/live HTML pages, the publication branch, GitHub Pages deployment, Unity legal configuration, Continue gating, Production advertising and APKs were not changed.
+
+## Owner clarification — game data is local (9 November 2026)
+
+DEVZASOFT does not operate a developer-hosted player database or upload game progress and preferences to its own backend. Game saves are held in app-local storage; Android/Google backup may create copies, user-initiated support emails reach the publisher's email provider, and Google AdMob/UMP may process data if enabled. Production advertising remains disabled in the reviewed configuration. This does **not** establish that the final Android build transmits no data. See `OPEN_ITEMS_AND_RELEASE_GATES.md`, section J, for the required evidence-based Google Play Data safety review. Do not publish a “no data collected” declaration without final release verification.
