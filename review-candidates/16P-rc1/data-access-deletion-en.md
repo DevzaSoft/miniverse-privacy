@@ -12,14 +12,14 @@ The current active app flow does not read or write an age/date-of-birth file; ag
 No general automatic day-based deletion period has been identified for local game files. Progress, energy, achievements, preferences, first-launch state and reward receipts serve different purposes. Some stores may create temporary, backup or corrupt-record copies. Event/callback technical traces may rotate at size limits or stop accepting new entries; these technical limits are not day/month retention promises.
 
 ## Your options
-Reset Settings restores music, effects, brightness, tutorial and hint preferences. It does not delete all levels/stars/fuel, language/first-launch, legacy age, receipts, SDK or OS data. Identify what you want removed first. Clearing Android app data may lose local progress without guaranteed recovery. No data was deleted during this document phase.
+Reset Settings restores music, effects, brightness, tutorial and hint preferences. It does not delete all levels/stars/fuel, language/first-launch, reward receipts, SDK or OS data. Whether age files from earlier versions remain in device backups has not been verified; the current app does not read or use them. Identify what you want removed first. Clearing Android app data may lose local progress without guaranteed recovery. No data was deleted during this document phase.
 
 Uninstalling may remove app-owned files; OS/OEM backups, external email and provider records may remain or return on reinstall. Actual backup/restore has not been tested without risking current saves. Device/OS tools are needed to manage backups; the developer cannot promise remote removal of every copy.
 
 ## Provider and support records
 UMP reset is a Development testing tool, not deletion of all user/server data; it must not automatically change real consent. OS advertising-ID controls do not delete all App Set IDs/other records. Google's general retention explanation does not establish one definite period for every GMA/UMP record here. [Google retention](https://policies.google.com/technologies/retention).
 
-Complete support 12 months for ordinary support correspondence after resolution, requests [RIGHTS_REQUEST_RETENTION], providers [PROVIDER_RETENTION_REGISTER] and local corrupt/backup/receipt target periods/methods [LOCAL_RETENTION_SCHEDULE]. No nonexistent automatic deletion schedule will be published.
+Ordinary support email correspondence is retained for 12 months after the issue is resolved. If a continuing dispute or a specific legal obligation requires longer retention, the reason and scope are documented separately. Rights-request records [RIGHTS_REQUEST_RETENTION], provider records [PROVIDER_RETENTION_REGISTER] and local corrupt/backup/receipt retention periods and deletion methods [LOCAL_RETENTION_SCHEDULE] must be specified separately. No nonexistent automatic deletion schedule will be published.
 
 ## Deletion requests
 Initial contact devzasoft@gmail.com; formal channel [FORMAL_REQUEST_CHANNEL]. Identify scope and copies actually accessible. Any lawful retention exception needs a specific basis and limit; indefinite retention is not presumed. Report provider referrals, local steps and completed actions separately. Do not claim server deletion of local data not remotely accessible. Statutory response periods are not data-retention periods.
