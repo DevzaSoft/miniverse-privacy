@@ -1,5 +1,7 @@
 # MiniVerse: Road Puzzle — Legal & Google Play Pre-publication Review
-**Review date:** 8 November 2026  
+
+> **CURRENT AUTHORITATIVE DECISION — 9 November 2026 (Section 47 supersedes all earlier audience decisions):** MiniVerse Road Puzzle is intended for users aged **16+** and is not designed for children. The app does not ask for age/DOB, verify age, classify users by age, persist age categories or route ads by age. This is an intended-audience declaration, not age verification or a technical access restriction; users aged 16–17 may remain minors under local law. The 0–12 child-only decision in historical Section 46 and all earlier 6+, 13+ and mixed-audience decisions are superseded and must not be used as current instructions. Production AdMob/UMP initialization and ad requests remain disabled. The current candidate documents are in `review-candidates/16P-rc1/`; they are review drafts only, not legally approved, not owner-approved for publication and not deployed. Continue remains disabled until exact approved Terms content, canonical URLs and hashes are authorized and configured. See Section 47 for the full current decision and boundaries.
+**Review date:** 9 November 2026  
 **Scope:** Eight TR/EN policy files on `legal-site-review`, known application behavior summarized in the project review, current Google Play policy pages, Google Mobile Ads Unity Plugin disclosure, and official Turkish DPA (KVKK) guidance.  
 **Status:** PRE-PUBLICATION REVIEW — NOT LEGAL APPROVAL, NOT READY TO PUBLISH.
 
