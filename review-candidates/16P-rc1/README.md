@@ -21,6 +21,10 @@
 | KVKK notice | `kvkk-tr.md` / `kvkk-tr.html` | `kvkk-en.md` / `kvkk-en.html` |
 | Retention, deletion and rights procedure | `data-access-deletion-tr.md` / `data-access-deletion-tr.html` | `data-access-deletion-en.md` / `data-access-deletion-en.html` |
 
+## Completion register
+
+See [OPEN_ITEMS_AND_RELEASE_GATES.md](OPEN_ITEMS_AND_RELEASE_GATES.md) for the remaining owner inputs, technical evidence, legal determinations and publication gates. This is an internal checklist, not a public policy.
+
 ## Material alignment work
 
 - Replaced stale 13+, 0–12, 6+ and mixed-audience descriptions with the definitive 16+ intended-audience decision.
