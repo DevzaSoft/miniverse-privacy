@@ -60,3 +60,15 @@ Key unresolved categories include establishment/service address or lawful servic
 - Users aged 16–17 may remain minors under applicable law.
 - Production AdMob/UMP initialization and ad requests remain disabled.
 - Privacy Policy notice, Terms acceptance and UMP privacy choices remain separate.
+
+## Follow-up regulatory and mirror verification
+
+**Follow-up date:** 9 November 2026
+
+- Added official KVKK Article 10 notice guidance and the Authority's public announcement on keeping the information notice separate from explicit consent.
+- Added the current Article 9 international-transfer framework reference, including the five-business-day notification point where a standard contract is used.
+- Clarified that the 30-day KVKK application response period is not a retention period.
+- Updated the TR/EN KVKK Markdown candidates and regenerated their HTML mirrors.
+- Rechecked all eight Markdown/HTML pairs: heading structures match **8/8**, language attributes **8/8**, noindex/nofollow **8/8**, review-only banners **8/8**, all-eight navigation links **8/8**, stale current-audience claims **0**, adjacent duplicate headings **0**.
+
+The legal grounds, recipient roles, transfer countries/mechanisms, formal request channel, and retention periods for non-support records remain open. This follow-up is legal-framework research and editorial QA only; it is not a legal opinion or approval.
