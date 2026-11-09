@@ -90,3 +90,12 @@ Official sources:
 - [KVKK — Statutory text and Article 5 processing conditions](https://www.aile.gov.tr/kvkk/mevzuat/)
 
 These references explain the legal framework; they do not determine MiniVerse's purpose-specific legal grounds, establish that a transfer mechanism exists, or replace Turkish counsel's review.
+
+## H. Publisher-provided contact details — 9 November 2026
+
+- Publisher/display name: **DEVZASOFT**.
+- Designated support and privacy/data-rights contact email: **devzasoft@gmail.com**.
+- The email is included in the candidate documents as the publisher's contact/request channel.
+- The email is not described as a physical address and is not represented as automatically satisfying every statutory formal-notice, service or KVKK application requirement.
+- DEVZASOFT is not represented as a separate incorporated company or legal entity.
+- The controller/provider legal identity and any legally required formal service details remain a publication gate. The publisher brand must not be substituted for the controller's legal identity where law requires disclosure of that identity.
