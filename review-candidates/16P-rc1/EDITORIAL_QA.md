@@ -118,3 +118,11 @@ This update records the publisher name distinction only. It does not establish a
 - Official reference: [KVKK Communiqué on application procedures (PDF)](https://www.kvkk.gov.tr/SharedFolderServer/CMSFiles/bf638c8f-7455-49a7-8118-3eb2858a16b5.pdf).
 
 The controller's legal identity, any formal service address/KEP channel and any purpose-built request workflow remain unresolved. No claim is made that the email alone meets all formal requirements.
+
+## Local-save clarification and release-data evidence gate — 9 November 2026
+
+- Confirmed owner-described on-device-first model: no DEVZASOFT developer backend collecting player progress, stars or settings.
+- Distinguished app-local saves from OS backup, Google AdMob/UMP, voluntary support email and external website data flows.
+- Added a release-specific evidence matrix and Play Console Data safety decision gate in `OPEN_ITEMS_AND_RELEASE_GATES.md` section J.
+- Corrected an accidental English-companion suffix in the English KVKK summary and synchronized its HTML mirror.
+- This is an editorial clarification, **not** a verified claim that the final Android artifact sends no data and not a Play Console submission.
