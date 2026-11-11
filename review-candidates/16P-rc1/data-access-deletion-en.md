@@ -1,0 +1,46 @@
+> **PUBLISHER CORRECTION — 9 November 2026:** DEVZASOFT **wants Google AdMob advertising enabled in the release version** of MiniVerse Road Puzzle. Statements in this draft saying that ads must stay disabled or that AdMob may only be enabled in the future describe an earlier technical review snapshot and **are not the publisher's release decision**. Whether advertising is actually enabled in the current Unity project and what the final Release build transmits have not been reverified. The intended release includes AdMob, subject to verifying actual SDK behavior and implementing applicable privacy/consent requirements. This remains an unpublished review draft.
+
+> CURRENT OWNER DECISION (9 November 2026): MiniVerse Road Puzzle's definitive intended audience is 16 and older; the game is not designed for children. This supersedes all prior 0–12, 6+, 13+ and mixed-audience declarations. The app does not ask for age/DOB and does not perform age verification, age classification or age-based ad routing. This intended-audience statement does not verify a user's age or technically prevent access by someone under 16. This file is a review candidate only, not owner or legal approval.
+
+> REVIEW CANDIDATE ONLY — Not published; neither owner publication approval nor professional legal approval is recorded. Review version: **16P-rc1**, reviewed **2026-11-09**. Proposed effective-date rule: the separately owner-approved publication date, or a later date explicitly chosen by the owner, after all open issues are resolved; not effective today. Exact date: [OWNER_APPROVED_EFFECTIVE_DATE].
+
+Publisher name and user-facing contact identity: **DEVZASOFT**. Email for privacy and data-rights requests: **devzasoft@gmail.com**. The controller's legal identity and required formal request procedure must be verified before publication. App: **MiniVerse Road Puzzle**, package: **com.devzasoft.miniverseroadpuzzle**. No residential address is published in this candidate. A lawful formal request/service channel without disclosing a residential address must be reviewed before publication; email alone is not assumed to satisfy every requirement.
+
+# Data Retention and Deletion Policy
+
+## Existing technical behavior
+The current active app flow does not read or write an age/date-of-birth file; age classification and age-category storage have been removed. We do not guarantee that legacy files possibly retained in device backups or external copies from an earlier app version have been erased from every device. The current app does not use that legacy age data.
+No general automatic day-based deletion period has been identified for local game files. Progress, energy, achievements, preferences, first-launch state and reward receipts serve different purposes. Some stores may create temporary, backup or corrupt-record copies. Event/callback technical traces may rotate at size limits or stop accepting new entries; these technical limits are not day/month retention promises.
+
+## Your options
+Reset Settings restores music, effects, brightness, tutorial and hint preferences. It does not delete all levels/stars/fuel, language/first-launch, reward receipts, SDK or OS data. Whether age files from earlier versions remain in device backups has not been verified; the current app does not read or use them. Identify what you want removed first. Clearing Android app data may lose local progress without guaranteed recovery. No data was deleted during this document phase.
+
+Uninstalling may remove app-owned files; OS/OEM backups, external email and provider records may remain or return on reinstall. Actual backup/restore has not been tested without risking current saves. Device/OS tools are needed to manage backups; the developer cannot promise remote removal of every copy.
+
+## Provider and support records
+UMP reset is a Development testing tool, not deletion of all user/server data; it must not automatically change real consent. OS advertising-ID controls do not delete all App Set IDs/other records. Google's general retention explanation does not establish one definite period for every GMA/UMP record here. [Google retention](https://policies.google.com/technologies/retention).
+
+Ordinary support email correspondence is retained for 12 months after the issue is resolved. If a continuing dispute or a specific legal obligation requires longer retention, the reason and scope are documented separately. Rights-request records [RIGHTS_REQUEST_RETENTION], provider records [PROVIDER_RETENTION_REGISTER] and local corrupt/backup/receipt retention periods and deletion methods [LOCAL_RETENTION_SCHEDULE] must be specified separately. No nonexistent automatic deletion schedule will be published.
+
+## Deletion requests
+Initial contact email for privacy and data-rights requests: **devzasoft@gmail.com**. Formal Turkish KVKK applications must use an applicable method under Article 13 and Article 5 of the Application Communiqué: written submission, KEP, secure electronic signature, mobile signature, an email address previously notified by the data subject and recorded in the controller's system, or an application developed for that purpose. Publishing this email alone does not make an ordinary email a formally valid application. Identify the request scope and copies actually accessible. Any lawful retention exception needs a specific basis and limit; indefinite retention is not presumed. Report provider referrals, local steps and completed actions separately. Do not claim server deletion of local data not remotely accessible. Statutory response periods are not data-retention periods.
+
+# Privacy Rights and Contact Procedure
+
+## For users
+Initial contact: **devzasoft@gmail.com**; suggested subject: “MiniVerse — privacy request”. A formal application must include the applicant's name and surname, signature if in writing, Turkish ID number (or nationality and passport/ID number for a foreign applicant), address for notification, any notification email/telephone/fax, and the request subject. The notification address belongs to the applicant and is distinct from the publisher's contact email. Do not send unnecessary advertising IDs, consent tokens, passwords or identity-document photographs.
+
+## Publisher workflow
+1. [PRIVACY_REQUEST_OWNER] logs the request without asking for unnecessary attachments. Access is restricted to authorized personnel; the actual process needs approval before launch.
+2. Separate local game files, support email, Google/UMP and OS backup. Do not invent links to data that cannot be associated with the requester.
+3. Apply necessary proportionate verification [REQUEST_VERIFICATION_METHOD]; receive legally required fields through a safe channel. Identity documents are not the default.
+4. Assess law, right/exceptions, actual access and recipient roles. Act on accessible support records and explain appropriate provider/OS routes for other copies. Do not claim remote deletion of local progress.
+5. Explain outcome/reasons, actions, inaccessible copies and complaint options. Retain request evidence according to [RIGHTS_REQUEST_RETENTION], not an assumed indefinite period.
+
+## Rights and timing
+KVKK Article 11 rights are listed in the separate notice; valid requests should be resolved promptly and no later than 30 days. Where GDPR applies, information/access/correction/erasure/restriction/portability/objection and relevant consent withdrawal depend on their conditions; the usual response deadline is one month. Any lawful extension/exception needs a concrete reason; these are not retention periods. The right to complain to the competent authority remains. Younger-user/representative authority and interests need separate assessment; teens are not all adults.
+
+## Account deletion and distinct choices
+The game has no user account and does not promise a nonexistent account-deletion screen. Local data clearing can lose progress; Reset Settings is not comprehensive deletion. UMP choices, Terms acceptance, OS ad-ID controls and erasure are different actions. Privacy Options is the existing Settings route when required/eligible; actual form evidence is limited to the Development diagnostic test described below.
+
+[KVKK request route](https://www.kvkk.gov.tr/Icerik/2062/Basvuru-Hakki), [deadlines](https://www.kvkk.gov.tr/Icerik/5358/Kamuoyu-Duyurusu), [EU response guidance](https://commission.europa.eu/law/law-topic/data-protection/information-business-and-organisations/dealing-requests-individuals_en). Finalize the formal channel and operational owner before publication.
